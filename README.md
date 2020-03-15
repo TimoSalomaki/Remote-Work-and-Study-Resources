@@ -89,6 +89,7 @@ For sure, there are many more great tools and services that I'm missing from thi
 - If there's a separate announcement on an official blog etc. with more information about the offering, please link that in the Source column of the table.
 - Don't add services that pretend that their pre-existing 30-day trial is suddenly a free COVID-19 exclusive offer.
 - Keep the table entries in alphabetical order.
+- Sites with excessive ads, paywalls or other limitations will not be accepted. Any articles listed in this repository should be of high quality and be original.
 
 ## License
 
