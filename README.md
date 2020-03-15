@@ -16,7 +16,6 @@ This list deals exclusively with free products/services and premium services tha
   - [Articles](#articles)
 - [Video Conferencing](#video-conferencing)
 - [Other Lists](#other-lists)
-
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -48,7 +47,6 @@ Course/service|Link|Countries|Notes|Source
 Coursera for Campus|[Get Started](https://www.coursera.org/coronavirus#form)|🌍|Learners will have access to their courses through September 30, 2020|[Take student learning online in response to coronavirus](https://www.coursera.org/coronavirus)
 
 ### Articles on Remote Studying/Teaching
-- 
 
 ## Remote Work
 
