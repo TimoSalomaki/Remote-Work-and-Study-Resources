@@ -8,6 +8,7 @@ This list deals exclusively with free products/services and premium services tha
 - [All-In-One Remote Studying/Teaching Tools and Services](#all-in-one-remote-studyingteaching-tools-and-services)
 - [All-In-One Remote Work Tools and Services](#all-in-one-remote-work-tools-and-services)
 - [Video Conferencing](#video-conferencing)
+- [Other Lists](#other-lists)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -23,8 +24,8 @@ Icon|Meaning|Icon|Meaning|Icon|Meaning
 
 ## All-In-One Remote Studying/Teaching Tools and Services
 
-Tool|Link|Features|Availability|Validity|Source
-----|----|--------|------------|--------|------
+Tool|Link|Features|Countries|Notes|Source
+----|----|--------|---------|-----|------
 Mango Classroom|[Apply](https://mangolanguages.com/info/covid19-response.cfm)|📱💻👨‍👩‍👧‍👦📖📝|USA|Freely available to all schools facing closures through the end of the 2019-2020 school year|[COVID-19 School Closure Response](https://mangolanguages.com/info/covid19-response.cfm)
 Office 365 A1|[Sign Up](https://www.microsoft.com/en-us/microsoft-365/academic/compare-office-365-education-plans?activetab=tab:primaryr1)|📱💻👨‍👩‍👧‍👦📖📝📁📹🎤📧|🌍|N/A|[Helping teachers and students make the switch to remote learning](https://www.microsoft.com/en-us/microsoft-365/blog/2020/03/11/helping-teachers-students-switch-remote-learning/)
 Office 365 A5|[Sign Up](https://www.microsoft.com/en-us/microsoft-365/academic/compare-office-365-education-plans?activetab=tab:primaryr1)|📱💻👨‍👩‍👧‍👦📖📝📁📹🎤📧|USA, Italy, Japan, South Korea|Free for six months|[Helping teachers and students make the switch to remote learning](https://www.microsoft.com/en-us/microsoft-365/blog/2020/03/11/helping-teachers-students-switch-remote-learning/)
@@ -33,17 +34,23 @@ Vuolearning|[Apply](https://www.etakoulu.fi/)|📱💻👨‍👩‍👧‍👦�
 
 ## All-In-One Remote Work Tools and Services
 
-Tool|Link|Features|Availability|Validity|Source
-----|----|--------|------------|--------|------
+Tool|Link|Features|Countries|Notes|Source
+----|----|--------|---------|-----|------
 3CX Standard Edition|[Sign Up](https://www.3cx.com/phone-system/covid-19-remote-working/)|📱💻👨‍👩‍👧‍👦📁📹🎤📧|🌍|3 years|[3CX Offers 3 years Free Remote Working Solution in Wake of Covid-19](https://www.3cx.com/blog/news/covid-19-remote-working/)
 Facebook Workplace|[Sign Up](https://www.facebook.com/workplace)|📱💻👨‍👩‍👧‍👦📁📹📧|🌍|N/A|
 Office 365 E1|Contact Microsoft partner or sales representative ([Source](https://www.microsoft.com/en-us/microsoft-365/blog/2020/03/05/our-commitment-to-customers-during-covid-19/))|📱💻👨‍👩‍👧‍👦📁📹🎤📧📅|🌍|Free for six months|[Our commitment to customers during COVID-19](https://www.microsoft.com/en-us/microsoft-365/blog/2020/03/05/our-commitment-to-customers-during-covid-19/)
 
 ## Video Conferencing
 
-Tool|Link|Availability|Validity|Source
-----|----|------------|--------|------
+Tool|Link|Countries|Notes|Source
+----|----|---------|-----|------
 Zoom|[Apply](https://zoom.us/docs/ent/school-verification.html?zcid=1231&_ga=2.228851412.995105639.1583699918-735451631.1546545079)|[List here](https://blog.zoom.us/wordpress/2020/03/13/how-to-use-zoom-for-online-learning/)|Temporary, only for schools|[UPDATE: How to Use Zoom for Online Learning](https://blog.zoom.us/wordpress/2020/03/13/how-to-use-zoom-for-online-learning/)
+Cisco Webex|[Sign Up](https://www.webex.com/)|[List here](https://help.webex.com/en-us/n80v1rcb/Cisco-Webex-Available-Free-in-These-Countries-COVID-19-Response)|Time limits removed and participant amount increased to 100 for free accounts|[Cisco Webex: Supporting customers during this unprecedented time](https://blog.webex.com/video-conferencing/cisco-webex-supporting-customers-during-this-unprecedented-time/)
+
+## Other Lists
+List|Notes
+----|-----------
+[Distance learning solutions - Unesco](https://en.unesco.org/themes/education-emergencies/coronavirus-school-closures/solutions)|List of educational applications and platforms to help parents, teachers, schools and school systems facilitate student learning and provide social caring and interaction during periods of school closure.
 
 ## Contributing
 
