@@ -46,8 +46,11 @@ Vuolearning|[Apply](https://www.etakoulu.fi/)|📱💻👨‍👩‍👧‍👦�
 Course/service|Link|Countries|Notes|Source
 --------------|----|---------|-----|------
 Coursera for Campus|[Get Started](https://www.coursera.org/coronavirus#form)|🌍|Learners will have access to their courses through September 30, 2020|[Take student learning online in response to coronavirus](https://www.coursera.org/coronavirus)
+Khan Academy|[Start Here](https://www.khanacademy.org/)|🌍||[How can Khan Academy be used for remote learning during school closures? ](https://khanacademy.zendesk.com/hc/en-us/articles/360040167432-How-can-Khan-Academy-be-used-for-remote-learning-during-school-closures-)
 
 ### Articles on Remote Studying/Teaching
+
+- [105 Tools for Distance Learning & Strategies for Student Engagement](https://www.albert.io/blog/tools-for-distance-learning/)
 
 ## Remote Work
 Remote workin tools and services have been around for a while but recently some of the big players have made their premium offerings partly or fully free. If you know more, please [contribute](#contribute)!
@@ -83,6 +86,7 @@ List|Notes
 ----|-----
 [Distance learning solutions - Unesco](https://en.unesco.org/themes/education-emergencies/coronavirus-school-closures/solutions)|List of educational applications and platforms to help parents, teachers, schools and school systems facilitate student learning and provide social caring and interaction during periods of school closure.
 [Ultimate List of 90+ Tools for Managing a Remote Team](https://inside.6q.io/tools-for-managing-remote-team/)
+[Tech against Coronavirus](https://techagainstcoronavirus.com/edu/)|A list of products you can use to maintain collaboration and work remotely with your team
 
 ## Contributing
 
