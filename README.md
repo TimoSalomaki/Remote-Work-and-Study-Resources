@@ -6,8 +6,12 @@ The COVID-19 situation forces people all over the world to work or study remotel
 This list deals exclusively with free products/services and premium services that offer free plans for schools, companies and individuals affected by the pandemic. Unfortunately, some companies are trying to benefit from the situation by pretending their pre-existing free trials are actually free handouts, in which case they'll be excluded from the list.
 
 ## Topics
-- [All-In-One Remote Studying/Teaching Tools and Services](#all-in-one-remote-studyingteaching-tools-and-services)
-- [All-In-One Remote Work Tools and Services](#all-in-one-remote-work-tools-and-services)
+- [Remote Studying/Teaching Tools and Services](#remote-studyingteaching-tools-and-services)
+  - [All In One Remote Studies](#all-in-one-remote-studies)
+  - [External Courses](#external-courses)
+- [Remote Work Tools and Services](#remote-work-tools-and-services)
+  - [All In One Remote Work](#all-in-one-remote-work)
+  - [Real-Time Communication](#real-time-communication)
 - [Video Conferencing](#video-conferencing)
 - [Other Lists](#other-lists)
 - [Articles](#articles)
@@ -24,7 +28,9 @@ Icon|Meaning|Icon|Meaning|Icon|Meaning
 📹|Video conferencing|🎤|Audio calls|📧|Email/messaging/forum
 📅|Planning/scheduling
 
-## All-In-One Remote Studying/Teaching Tools and Services
+## Remote Studying/Teaching Tools and Services
+
+### All In One Remote Studies
 
 Tool|Link|Features|Countries|Notes|Source
 ----|----|--------|---------|-----|------
@@ -34,23 +40,30 @@ Office 365 A5|[Sign Up](https://www.microsoft.com/en-us/microsoft-365/academic/c
 Top Hat|[Get Started](https://tophat.com/covid-19-response/)|📱💻👨‍👩‍👧‍👦📖📝📁📹🎤📧|United States, Canada, United Kingdom|The product is aimed for colleges and universities, valid until the end of the semester|[COVID-19: We’re making Top Hat free of charge](https://tophat.com/covid-19-response/)
 Vuolearning|[Apply](https://www.etakoulu.fi/)|📱💻👨‍👩‍👧‍👦📖📝📁📧|Finland|Free until June 30th, 2020|[Twitter announcement](https://twitter.com/Vuolearning/status/1238509445543612416)
 
+### External Courses
+Course/service|Link|Countries|Notes|Source
+--------------|----|---------|-----|------
+Coursera for Campus|[Get Started](https://www.coursera.org/coronavirus#form)|🌍|Learners will have access to their courses through September 30, 2020|[Take student learning online in response to coronavirus](https://www.coursera.org/coronavirus)
 
-## All-In-One Remote Work Tools and Services
+
+## Remote Work Tools and Services
+
+### All In One Remote Work
 
 Tool|Link|Features|Countries|Notes|Source
 ----|----|--------|---------|-----|------
 3CX Standard Edition|[Sign Up](https://www.3cx.com/phone-system/covid-19-remote-working/)|📱💻👨‍👩‍👧‍👦📁📹🎤📧|🌍|3 years|[3CX Offers 3 years Free Remote Working Solution in Wake of Covid-19](https://www.3cx.com/blog/news/covid-19-remote-working/)
 Facebook Workplace|[Sign Up](https://www.facebook.com/workplace)|📱💻👨‍👩‍👧‍👦📁📹📧|🌍||
 Office 365 E1|Contact Microsoft partner or sales representative ([Source](https://www.microsoft.com/en-us/microsoft-365/blog/2020/03/05/our-commitment-to-customers-during-covid-19/))|📱💻👨‍👩‍👧‍👦📁📹🎤📧📅|🌍|Free for six months|[Our commitment to customers during COVID-19](https://www.microsoft.com/en-us/microsoft-365/blog/2020/03/05/our-commitment-to-customers-during-covid-19/)
+
+### Real-Time Communication
+
+Tool|Link|Features|Countries|Notes|Source
+----|----|--------|---------|-----|------
+Cisco Webex|[Sign Up](https://www.webex.com/)|📱💻👨‍👩‍👧‍👦📁📹🎤📧|[List here](https://help.webex.com/en-us/n80v1rcb/Cisco-Webex-Available-Free-in-These-Countries-COVID-19-Response)|Time limits removed and participant amount increased to 100 for free accounts|[Cisco Webex: Supporting customers during this unprecedented time](https://blog.webex.com/video-conferencing/cisco-webex-supporting-customers-during-this-unprecedented-time/)
+LogMeIn Products (GoToMeeting, GoToWebinar)|[Emergency Remote Work Kits](https://www.gotomeeting.com/work-remote)|📱💻📹🎤📧📅|🌍|Available for eligible healthcare providers, educational institutions, municipalities, and non-profit organizations as well as any current LogMeIn customer|[Coronavirus Disruptions: An Offer of Support to our Communities and Customers](https://blog.gotomeeting.com/coronavirus-disruptions-and-support/)
 Slack|[Get Started](https://slack.com/get-started#/)|📱💻👨‍👩‍👧‍👦📁📹🎤📧|🌍|No group audio or video calls or screen sharing in the free tier|
-
-## Video Conferencing
-
-Tool|Link|Countries|Notes|Source
-----|----|---------|-----|------
-Cisco Webex|[Sign Up](https://www.webex.com/)|[List here](https://help.webex.com/en-us/n80v1rcb/Cisco-Webex-Available-Free-in-These-Countries-COVID-19-Response)|Time limits removed and participant amount increased to 100 for free accounts|[Cisco Webex: Supporting customers during this unprecedented time](https://blog.webex.com/video-conferencing/cisco-webex-supporting-customers-during-this-unprecedented-time/)
-LogMeIn Products (GoToMeeting, GoToWebinar)|[Emergency Remote Work Kits](https://www.gotomeeting.com/work-remote)|🌍|Available for eligible healthcare providers, educational institutions, municipalities, and non-profit organizations as well as any current LogMeIn customer|[Coronavirus Disruptions: An Offer of Support to our Communities and Customers](https://blog.gotomeeting.com/coronavirus-disruptions-and-support/)
-Zoom|[Apply](https://zoom.us/docs/ent/school-verification.html?zcid=1231&_ga=2.228851412.995105639.1583699918-735451631.1546545079)|[List here](https://blog.zoom.us/wordpress/2020/03/13/how-to-use-zoom-for-online-learning/)|Temporary, only for schools|[UPDATE: How to Use Zoom for Online Learning](https://blog.zoom.us/wordpress/2020/03/13/how-to-use-zoom-for-online-learning/)
+Zoom|[Apply](https://zoom.us/docs/ent/school-verification.html?zcid=1231&_ga=2.228851412.995105639.1583699918-735451631.1546545079)|📱💻👨‍👩‍👧‍👦📹🎤📅|[List here](https://blog.zoom.us/wordpress/2020/03/13/how-to-use-zoom-for-online-learning/)|Temporarily removed time limits, only for schools|[UPDATE: How to Use Zoom for Online Learning](https://blog.zoom.us/wordpress/2020/03/13/how-to-use-zoom-for-online-learning/)
 
 ## Other Lists
 
@@ -62,6 +75,7 @@ List|Notes
 
 ### Remote Work
 - [Work from home: 64 expert tips for staying healthy, happy, and productive](https://www.zdnet.com/article/work-from-home-64-expert-tips-for-staying-healthy-happy-and-productive/)
+- [12 Remote Work Tools Buffer Can’t Live Without](https://open.buffer.com/remote-work-tools/)
 
 ## Contributing
 
