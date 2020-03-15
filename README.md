@@ -95,8 +95,8 @@ Zoom|[Apply](https://zoom.us/docs/ent/school-verification.html?zcid=1231&_ga=2.2
 
 List|Notes
 ----|-----
-[16 Free Resources for Schools Who are Closing Due to Coronavirus](https://www.coolcatteacher.com/16-free-resources-for-schools-who-are-closing-due-to-coronavirus/)|
-[40+ Tools for Distance Learning (A response to COVID-19)](https://nicolecai.com/2020/03/09/40-tools-for-distance-learning-a-response-to-covid-19/)|
+[16 Free Resources for Schools Who are Closing Due to Coronavirus](https://www.coolcatteacher.com/16-free-resources-for-schools-who-are-closing-due-to-coronavirus/)| 
+[40+ Tools for Distance Learning (A response to COVID-19)](https://nicolecai.com/2020/03/09/40-tools-for-distance-learning-a-response-to-covid-19/)| 
 [Distance learning solutions - Unesco](https://en.unesco.org/themes/education-emergencies/coronavirus-school-closures/solutions)|List of educational applications and platforms to help parents, teachers, schools and school systems facilitate student learning and provide social caring and interaction during periods of school closure.
 [Free Tools for Schools Dealing with Corona](https://docs.google.com/document/d/1BQJEQczyMOkG_80RBT2ouROB3ISUe93Yc2jloWvnJXM)|List of companies that have announced services enhanced or made free to schools as they deal with closures due to COVID 19.
 [Tech against Coronavirus](https://techagainstcoronavirus.com/edu/)|A list of products you can use to maintain collaboration and work remotely with your team
