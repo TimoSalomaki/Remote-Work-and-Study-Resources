@@ -42,6 +42,7 @@ Top Hat|[Get Started](https://tophat.com/covid-19-response/)|📱💻👨‍👩
 Vuolearning|[Apply](https://www.etakoulu.fi/)|📱💻👨‍👩‍👧‍👦📖📝📁📧|Finland|Free until June 30th, 2020|[Twitter announcement](https://twitter.com/Vuolearning/status/1238509445543612416)
 
 ### External Courses
+
 Course/service|Link|Countries|Notes|Source
 --------------|----|---------|-----|------
 Coursera for Campus|[Get Started](https://www.coursera.org/coronavirus#form)|🌍|Learners will have access to their courses through September 30, 2020|[Take student learning online in response to coronavirus](https://www.coursera.org/coronavirus)
