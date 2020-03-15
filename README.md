@@ -57,6 +57,7 @@ Remote workin tools and services have been around for a while but recently some 
 Tool|Link|Features|Countries|Notes|Source
 ----|----|--------|---------|-----|------
 3CX Standard Edition|[Sign Up](https://www.3cx.com/phone-system/covid-19-remote-working/)|📱💻👨‍👩‍👧‍👦📁📹🎤📧|🌍|3 years|[3CX Offers 3 years Free Remote Working Solution in Wake of Covid-19](https://www.3cx.com/blog/news/covid-19-remote-working/)
+Adobe Connect|[Sign Up](https://www.adobe.com/products/adobeconnect/trial.html)|📱💻👨‍👩‍👧‍👦📁📹🎤📧📅|🌍|Free fully functional trial extended to 90 days due to COVID-19|[Adobe Connect Extending Support in Light of COVID-19 Impact](https://blogs.adobe.com/adobeconnect/2020/03/adobe-connect-extending-support-in-the-wake-of-covid-19.html)
 Facebook Workplace|[Sign Up](https://www.facebook.com/workplace)|📱💻👨‍👩‍👧‍👦📁📹📧|🌍||
 Office 365 E1|Contact Microsoft partner or sales representative ([Source](https://www.microsoft.com/en-us/microsoft-365/blog/2020/03/05/our-commitment-to-customers-during-covid-19/))|📱💻👨‍👩‍👧‍👦📁📹🎤📧📅|🌍|Free for six months|[Our commitment to customers during COVID-19](https://www.microsoft.com/en-us/microsoft-365/blog/2020/03/05/our-commitment-to-customers-during-covid-19/)
 
