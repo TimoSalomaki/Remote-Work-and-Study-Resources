@@ -7,6 +7,9 @@ This list deals exclusively with free products/services and premium services tha
 ## Topics
 - [All-In-One Remote Studying/Teaching Tools and Services](#all-in-one-remote-studyingteaching-tools-and-services)
 - [All-In-One Remote Work Tools and Services](#all-in-one-remote-work-tools-and-services)
+- [Video Conferencing](#video-conferencing)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## Icon Legend
 The following icons are used in the lists:
@@ -21,7 +24,7 @@ Icon|Meaning|Icon|Meaning|Icon|Meaning
 ## All-In-One Remote Studying/Teaching Tools and Services
 
 Tool|Link|Features|Availability|Validity|Source
-----|----|--------|------------|-----------|------
+----|----|--------|------------|--------|------
 Mango Classroom|[Apply](https://mangolanguages.com/info/covid19-response.cfm)|📱💻👨‍👩‍👧‍👦📖📝|USA|Freely available to all schools facing closures through the end of the 2019-2020 school year|[COVID-19 School Closure Response](https://mangolanguages.com/info/covid19-response.cfm)
 Office 365 A1|[Sign Up](https://www.microsoft.com/en-us/microsoft-365/academic/compare-office-365-education-plans?activetab=tab:primaryr1)|📱💻👨‍👩‍👧‍👦📖📝📁📹🎤📧|🌍|N/A|[Helping teachers and students make the switch to remote learning](https://www.microsoft.com/en-us/microsoft-365/blog/2020/03/11/helping-teachers-students-switch-remote-learning/)
 Office 365 A5|[Sign Up](https://www.microsoft.com/en-us/microsoft-365/academic/compare-office-365-education-plans?activetab=tab:primaryr1)|📱💻👨‍👩‍👧‍👦📖📝📁📹🎤📧|USA, Italy, Japan, South Korea|Free for six months|[Helping teachers and students make the switch to remote learning](https://www.microsoft.com/en-us/microsoft-365/blog/2020/03/11/helping-teachers-students-switch-remote-learning/)
@@ -31,7 +34,7 @@ Vuolearning|[Apply](https://www.etakoulu.fi/)|📱💻👨‍👩‍👧‍👦�
 ## All-In-One Remote Work Tools and Services
 
 Tool|Link|Features|Availability|Validity|Source
-----|----|--------|------------|-----------|------
+----|----|--------|------------|--------|------
 3CX Standard Edition|[Sign Up](https://www.3cx.com/phone-system/covid-19-remote-working/)|📱💻👨‍👩‍👧‍👦📁📹🎤📧|🌍|3 years|[3CX Offers 3 years Free Remote Working Solution in Wake of Covid-19](https://www.3cx.com/blog/news/covid-19-remote-working/)
 Facebook Workplace|[Sign Up](https://www.facebook.com/workplace)|📱💻👨‍👩‍👧‍👦📁📹📧|🌍|N/A|
 Office 365 E1|Contact Microsoft partner or sales representative ([Source](https://www.microsoft.com/en-us/microsoft-365/blog/2020/03/05/our-commitment-to-customers-during-covid-19/))|📱💻👨‍👩‍👧‍👦📁📹🎤📧📅|🌍|Free for six months|[Our commitment to customers during COVID-19](https://www.microsoft.com/en-us/microsoft-365/blog/2020/03/05/our-commitment-to-customers-during-covid-19/)
@@ -39,5 +42,18 @@ Office 365 E1|Contact Microsoft partner or sales representative ([Source](https:
 ## Video Conferencing
 
 Tool|Link|Availability|Validity|Source
-----|----|------------|-----------|------
+----|----|------------|--------|------
 Zoom|[Apply](https://zoom.us/docs/ent/school-verification.html?zcid=1231&_ga=2.228851412.995105639.1583699918-735451631.1546545079)|[List here](https://blog.zoom.us/wordpress/2020/03/13/how-to-use-zoom-for-online-learning/)|Temporary, only for schools|[UPDATE: How to Use Zoom for Online Learning](https://blog.zoom.us/wordpress/2020/03/13/how-to-use-zoom-for-online-learning/)
+
+## Contributing
+
+For sure, there are many more great tools and services that I'm missing from this list. If you know of any, please submit a pull request and I'll review it. There are no specific styling instructions yet but try to adhere to the overall look and feel already present in the document. Keep the following things in mind when contributing:
+
+- Use the icons provided for the feature listing. You can add new ones if they make sense and are general enough to be listed for other tools and services as well.
+- If there's a separate announcement on an official blog etc. with more information about the offering, please link that in the Source column of the table.
+- Don't add services that pretend that their pre-existing 30-day trial is suddenly a free COVID-19 exclusive offer.
+- Keep the table entries in alphabetical order.
+
+## License
+
+[CC0 1.0 Universal (CC0 1.0) Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/)
