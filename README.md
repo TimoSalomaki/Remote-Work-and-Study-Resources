@@ -1,7 +1,8 @@
 # COVID-19 Remote Work and Study Resources
 
-The COVID-19 situation forces many people to work or study remotely for the first time in their lives. This repository aims to aggregate all the important information, free resources and other stuff that helps people make the best of the unfortunate situation and continue with their daily tasks.
+The COVID-19 situation forces people all over the world to work or study remotely for the first time in their lives. This repository aims to aggregate all the important information, free resources and other stuff that helps people make the best of the unfortunate situation and continue with their daily tasks.
 
+## Note on tools and services
 This list deals exclusively with free products/services and premium services that offer free plans for schools, companies and individuals affected by the pandemic. Unfortunately, some companies are trying to benefit from the situation by pretending their pre-existing free trials are actually free handouts, in which case they'll be excluded from the list.
 
 ## Topics
@@ -9,6 +10,7 @@ This list deals exclusively with free products/services and premium services tha
 - [All-In-One Remote Work Tools and Services](#all-in-one-remote-work-tools-and-services)
 - [Video Conferencing](#video-conferencing)
 - [Other Lists](#other-lists)
+- [Articles](#articles)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -29,6 +31,7 @@ Tool|Link|Features|Countries|Notes|Source
 Mango Classroom|[Apply](https://mangolanguages.com/info/covid19-response.cfm)|📱💻👨‍👩‍👧‍👦📖📝|USA|Freely available to all schools facing closures through the end of the 2019-2020 school year|[COVID-19 School Closure Response](https://mangolanguages.com/info/covid19-response.cfm)
 Office 365 A1|[Sign Up](https://www.microsoft.com/en-us/microsoft-365/academic/compare-office-365-education-plans?activetab=tab:primaryr1)|📱💻👨‍👩‍👧‍👦📖📝📁📹🎤📧|🌍||[Helping teachers and students make the switch to remote learning](https://www.microsoft.com/en-us/microsoft-365/blog/2020/03/11/helping-teachers-students-switch-remote-learning/)
 Office 365 A5|[Sign Up](https://www.microsoft.com/en-us/microsoft-365/academic/compare-office-365-education-plans?activetab=tab:primaryr1)|📱💻👨‍👩‍👧‍👦📖📝📁📹🎤📧|USA, Italy, Japan, South Korea|Free for six months|[Helping teachers and students make the switch to remote learning](https://www.microsoft.com/en-us/microsoft-365/blog/2020/03/11/helping-teachers-students-switch-remote-learning/)
+Top Hat|[Get Started](https://tophat.com/covid-19-response/)|📱💻👨‍👩‍👧‍👦📖📝📁📹🎤📧|United States, Canada, United Kingdom|The product is aimed for colleges and universities, valid until the end of the semester|[COVID-19: We’re making Top Hat free of charge](https://tophat.com/covid-19-response/)
 Vuolearning|[Apply](https://www.etakoulu.fi/)|📱💻👨‍👩‍👧‍👦📖📝📁📧|Finland|Free until June 30th, 2020|[Twitter announcement](https://twitter.com/Vuolearning/status/1238509445543612416)
 
 
@@ -39,6 +42,7 @@ Tool|Link|Features|Countries|Notes|Source
 3CX Standard Edition|[Sign Up](https://www.3cx.com/phone-system/covid-19-remote-working/)|📱💻👨‍👩‍👧‍👦📁📹🎤📧|🌍|3 years|[3CX Offers 3 years Free Remote Working Solution in Wake of Covid-19](https://www.3cx.com/blog/news/covid-19-remote-working/)
 Facebook Workplace|[Sign Up](https://www.facebook.com/workplace)|📱💻👨‍👩‍👧‍👦📁📹📧|🌍||
 Office 365 E1|Contact Microsoft partner or sales representative ([Source](https://www.microsoft.com/en-us/microsoft-365/blog/2020/03/05/our-commitment-to-customers-during-covid-19/))|📱💻👨‍👩‍👧‍👦📁📹🎤📧📅|🌍|Free for six months|[Our commitment to customers during COVID-19](https://www.microsoft.com/en-us/microsoft-365/blog/2020/03/05/our-commitment-to-customers-during-covid-19/)
+Slack|[Get Started](https://slack.com/get-started#/)|📱💻👨‍👩‍👧‍👦📁📹🎤📧|🌍|No group audio or video calls or screen sharing in the free tier|
 
 ## Video Conferencing
 
@@ -49,9 +53,15 @@ LogMeIn Products (GoToMeeting, GoToWebinar)|[Emergency Remote Work Kits](https:/
 Zoom|[Apply](https://zoom.us/docs/ent/school-verification.html?zcid=1231&_ga=2.228851412.995105639.1583699918-735451631.1546545079)|[List here](https://blog.zoom.us/wordpress/2020/03/13/how-to-use-zoom-for-online-learning/)|Temporary, only for schools|[UPDATE: How to Use Zoom for Online Learning](https://blog.zoom.us/wordpress/2020/03/13/how-to-use-zoom-for-online-learning/)
 
 ## Other Lists
+
 List|Notes
-----|-----------
+----|-----
 [Distance learning solutions - Unesco](https://en.unesco.org/themes/education-emergencies/coronavirus-school-closures/solutions)|List of educational applications and platforms to help parents, teachers, schools and school systems facilitate student learning and provide social caring and interaction during periods of school closure.
+
+## Articles
+
+### Remote Work
+- [Work from home: 64 expert tips for staying healthy, happy, and productive](https://www.zdnet.com/article/work-from-home-64-expert-tips-for-staying-healthy-happy-and-productive/)
 
 ## Contributing
 
