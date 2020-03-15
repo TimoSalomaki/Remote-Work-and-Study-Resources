@@ -14,7 +14,6 @@ This list deals exclusively with free products/services and premium services tha
   - [All In One Services](#all-in-one-services)
   - [Real-Time Communication](#real-time-communication)
   - [Articles](#articles)
-- [Video Conferencing](#video-conferencing)
 - [Other Lists](#other-lists)
 - [Contributing](#contributing)
 - [License](#license)
@@ -80,6 +79,7 @@ Zoom|[Apply](https://zoom.us/docs/ent/school-verification.html?zcid=1231&_ga=2.2
 List|Notes
 ----|-----
 [Distance learning solutions - Unesco](https://en.unesco.org/themes/education-emergencies/coronavirus-school-closures/solutions)|List of educational applications and platforms to help parents, teachers, schools and school systems facilitate student learning and provide social caring and interaction during periods of school closure.
+[Ultimate List of 90+ Tools for Managing a Remote Team](https://inside.6q.io/tools-for-managing-remote-team/)
 
 ## Contributing
 
