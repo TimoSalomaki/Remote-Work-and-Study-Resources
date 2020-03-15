@@ -2,19 +2,21 @@
 
 The COVID-19 situation forces people all over the world to work or study remotely for the first time in their lives. This repository aims to aggregate all the important information, free resources and other stuff that helps people make the best of the unfortunate situation and continue with their daily tasks.
 
-## Note on tools and services
+## Note on Tools and Services
 This list deals exclusively with free products/services and premium services that offer free plans for schools, companies and individuals affected by the pandemic. Unfortunately, some companies are trying to benefit from the situation by pretending their pre-existing free trials are actually free handouts, in which case they'll be excluded from the list.
 
 ## Topics
-- [Remote Studying/Teaching Tools and Services](#remote-studyingteaching-tools-and-services)
-  - [All In One Remote Studies](#all-in-one-remote-studies)
+- [Remote Studying/Teaching](#remote-studyingteaching)
+  - [All In One Tools/Services](#all-in-one-toolsservices)
   - [External Courses](#external-courses)
-- [Remote Work Tools and Services](#remote-work-tools-and-services)
-  - [All In One Remote Work](#all-in-one-remote-work)
+  - [Articles on Remote Studying/Teaching](#articles-on-remote-studyingteaching)
+- [Remote Work](#remote-work)
+  - [All In One Services](#all-in-one-services)
   - [Real-Time Communication](#real-time-communication)
+  - [Articles](#articles)
 - [Video Conferencing](#video-conferencing)
 - [Other Lists](#other-lists)
-- [Articles](#articles)
+
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -28,9 +30,9 @@ Icon|Meaning|Icon|Meaning|Icon|Meaning
 📹|Video conferencing|🎤|Audio calls|📧|Email/messaging/forum
 📅|Planning/scheduling
 
-## Remote Studying/Teaching Tools and Services
+## Remote Studying/Teaching
 
-### All In One Remote Studies
+### All-In-One Tools/Services
 
 Tool|Link|Features|Countries|Notes|Source
 ----|----|--------|---------|-----|------
@@ -45,10 +47,12 @@ Course/service|Link|Countries|Notes|Source
 --------------|----|---------|-----|------
 Coursera for Campus|[Get Started](https://www.coursera.org/coronavirus#form)|🌍|Learners will have access to their courses through September 30, 2020|[Take student learning online in response to coronavirus](https://www.coursera.org/coronavirus)
 
+### Articles on Remote Studying/Teaching
+- 
 
-## Remote Work Tools and Services
+## Remote Work
 
-### All In One Remote Work
+### All-In-One Services
 
 Tool|Link|Features|Countries|Notes|Source
 ----|----|--------|---------|-----|------
@@ -65,17 +69,18 @@ LogMeIn Products (GoToMeeting, GoToWebinar)|[Emergency Remote Work Kits](https:/
 Slack|[Get Started](https://slack.com/get-started#/)|📱💻👨‍👩‍👧‍👦📁📹🎤📧|🌍|No group audio or video calls or screen sharing in the free tier|
 Zoom|[Apply](https://zoom.us/docs/ent/school-verification.html?zcid=1231&_ga=2.228851412.995105639.1583699918-735451631.1546545079)|📱💻👨‍👩‍👧‍👦📹🎤📅|[List here](https://blog.zoom.us/wordpress/2020/03/13/how-to-use-zoom-for-online-learning/)|Temporarily removed time limits, only for schools|[UPDATE: How to Use Zoom for Online Learning](https://blog.zoom.us/wordpress/2020/03/13/how-to-use-zoom-for-online-learning/)
 
+### Articles
+
+- [12 Remote Work Tools Buffer Can’t Live Without](https://open.buffer.com/remote-work-tools/)
+- [The Pyramid of Remote Team Communication Tools - How to stay in sync across 26 countries and 15 time zones](https://doist.com/blog/remote-team-communication-tools/)
+- [The Remote Working Parent’s Survival Guide](https://doist.com/blog/remote-working-parents-survival-guide/)
+- [Work from home: 64 expert tips for staying healthy, happy, and productive](https://www.zdnet.com/article/work-from-home-64-expert-tips-for-staying-healthy-happy-and-productive/)
+
 ## Other Lists
 
 List|Notes
 ----|-----
 [Distance learning solutions - Unesco](https://en.unesco.org/themes/education-emergencies/coronavirus-school-closures/solutions)|List of educational applications and platforms to help parents, teachers, schools and school systems facilitate student learning and provide social caring and interaction during periods of school closure.
-
-## Articles
-
-### Remote Work
-- [Work from home: 64 expert tips for staying healthy, happy, and productive](https://www.zdnet.com/article/work-from-home-64-expert-tips-for-staying-healthy-happy-and-productive/)
-- [12 Remote Work Tools Buffer Can’t Live Without](https://open.buffer.com/remote-work-tools/)
 
 ## Contributing
 
