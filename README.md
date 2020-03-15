@@ -29,6 +29,7 @@ Icon|Meaning|Icon|Meaning|Icon|Meaning
 ðŸ“…|Planning/scheduling
 
 ## Remote Studying/Teaching
+There are numerous tools and services for both studying and teaching remotely. Here are some of the popular free tool and ones that are exceptionally offered for free due to COVID-19.
 
 ### All-In-One Tools/Services
 
@@ -49,6 +50,7 @@ Coursera for Campus|[Get Started](https://www.coursera.org/coronavirus#form)|ðŸŒ
 ### Articles on Remote Studying/Teaching
 
 ## Remote Work
+Remote workin tools and services have been around for a while but recently some of the big players have made their premium offerings partly or fully free. If you know more, please [contribute](#contribute)!
 
 ### All-In-One Services
 
@@ -83,7 +85,9 @@ List|Notes
 
 ## Contributing
 
-For sure, there are many more great tools and services that I'm missing from this list. If you know of any, please submit a pull request and I'll review it. There are no specific styling instructions yet but try to adhere to the overall look and feel already present in the document. Keep the following things in mind when contributing:
+There are certainly many great tools and services that I'm missing from this list. If you know of any, please [submit a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) and I'll review it. There are no specific styling instructions yet but try to adhere to the overall look and feel already present in the document. Keep the following things in mind when contributing:
+
+ > Note for non-technical users: If you're not familiar with GitHub, or have no clue what a "pull request" is and you would like to contribute to this page, feel free to send me a message on [LinkedIn](https://www.linkedin.com/in/hankidesign/). I'll add your suggestions if they're suitable for this page.
 
 - Use the icons provided for the feature listing. You can add new ones if they make sense and are general enough to be listed for other tools and services as well.
 - If there's a separate announcement on an official blog etc. with more information about the offering, please link that in the Source column of the table.
