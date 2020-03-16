@@ -5,9 +5,10 @@ The COVID-19 situation forces people all over the world to work or study remotel
 > **Note on Tools and Services:** This list deals exclusively with free products/services and premium services that offer free plans for schools, companies and individuals affected by the pandemic. Unfortunately, some companies are trying to benefit from the situation by pretending their pre-existing free trials are actually free handouts, in which case they'll be excluded from the list.
 
 ## Topics
+
 - [Remote Studying/Teaching](#remote-studyingteaching)
   - [👩‍🏫 All In One Tools/Services](#all-in-one-toolsservices)
-  - [👨‍👧‍👦 Collaboration](#collaboration)
+  -  [👨‍👧‍👦  Collaboration](#collaboration)
   - [👨‍🎓 External Courses](#external-courses)
   - [💬 Languages](#languages)
   - [🧮 Mathematics](#mathematics)
@@ -16,79 +17,82 @@ The COVID-19 situation forces people all over the world to work or study remotel
     - [For Teachers](#for-teachers)
     - [Tools & Resources](#tools--resources)
 - [Remote Work](#remote-work)
-  - [All In One Services](#all-in-one-services)
-  - [Real-Time Communication](#real-time-communication)
-  - [Articles](#articles)
+  - [🛠️ All In One Services](#all-in-one-services)
+  - [📡 Real-Time Communication](#real-time-communication)
+  - [📰 Articles](#articles)
     - [General](#general)
     - [Health & Family](#health--family)
-- [Other Lists](#other-lists)
-- [Contributing](#contributing)
+- [📃 Other Lists](#other-lists)
+- [🙋‍♂️ Contributing](#contributing)
 - [License](#license)
 
 ## Icon Legend
+
 The following icons are used in the lists:
 
-Icon|Meaning|Icon|Meaning|Icon|Meaning
-----|-------|----|-------|----|-------
-📱|Mobile application/mobile ready|💻|Web frontend|👨‍👩‍👧‍👦|Groups/courses
-📖|Digital study material|📝|Online assignments/quizzes|📁|File storage
-📹|Video conferencing|🎤|Audio calls|📧|Email/messaging/forum
-📅|Planning/scheduling|📕|Book
+| Icon | Meaning                     | Icon | Meaning                     | Icon | Meaning                          |
+| ---- | --------------------------- | ---- | --------------------------- | ---- | -------------------------------- |
+| 🌍    | Service available worldwide | 📕    | The resource is a free book | 🔥    | Premium service offered for free |
 
 ## Remote Studying/Teaching
+
 There are numerous tools and services for both studying and teaching remotely. Here are some of the popular free tool and ones that are exceptionally offered for free due to COVID-19.
 
 ### All-In-One Tools/Services
 
-Service|Description|Countries|Notes|Source
--------|-----------|---------|-----|------
-[Office 365 A1](https://www.microsoft.com/en-us/microsoft-365/academic/compare-office-365-education-plans?activetab=tab:primaryr1)||🌍||[Source](https://www.microsoft.com/en-us/microsoft-365/blog/2020/03/11/helping-teachers-students-switch-remote-learning/)
-[Office 365 A5](https://www.microsoft.com/en-us/microsoft-365/academic/compare-office-365-education-plans?activetab=tab:primaryr1)||USA, Italy, Japan, South Korea|Free for six months|[Source](https://www.microsoft.com/en-us/microsoft-365/blog/2020/03/11/helping-teachers-students-switch-remote-learning/)
-[Top Hat](https://tophat.com/covid-19-response/)||United States, Canada, United Kingdom|The product is aimed for colleges and universities, valid until the end of the semester|[Source](https://tophat.com/covid-19-response/)
-[Vuolearning](https://www.etakoulu.fi/)||Finland|Free until June 30th, 2020|[Source](https://twitter.com/Vuolearning/status/1238509445543612416)
+| Service                                                      | Description                                                  | Countries                             | Validity                                                     | Source                                                       |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [Office 365 A1](https://www.microsoft.com/en-us/microsoft-365/academic/compare-office-365-education-plans?activetab=tab:primaryr1) | Online version of Office with email, video conferencing, hub for class teamwork with Microsoft Teams etc. | 🌍                                     | Always free                                                  | [Source](https://www.microsoft.com/en-us/microsoft-365/blog/2020/03/11/helping-teachers-students-switch-remote-learning/) |
+| [🔥 Office 365 A5](https://www.microsoft.com/en-us/microsoft-365/academic/compare-office-365-education-plans?activetab=tab:primaryr1) | Office 365 A1 features with higher usage limits + Office desktop apps, additional management and security tools, and analytics systems. | USA, Italy, Japan, South Korea        | Free for six months                                          | [Source](https://www.microsoft.com/en-us/microsoft-365/blog/2020/03/11/helping-teachers-students-switch-remote-learning/) |
+| [🔥 Top Hat](https://tophat.com/covid-19-response/)           | Easy-to-use tools to engage your classroom, adopt and author next generation interactive textbooks, create assignments on the fly and securely administer tests. | United States, Canada, United Kingdom | The product is aimed for colleges and universities, valid until the end of the semester | [Source](https://tophat.com/covid-19-response/)              |
+| [🔥 Vuolearning](https://www.etakoulu.fi/)                    | Distance learning solution with courses, discussions, assignments, analytics and integrations to external systems. | Finland                               | Free until June 30th, 2020                                   | [Source](https://twitter.com/Vuolearning/status/1238509445543612416) |
 
 ### Collaboration
 
-Service|Description|Countries|Notes|Source
--------|-----------|---------|-----|------
-[Explain Everything](https://explaineverything.com/keep-calm-and-teach-online-free-explain-everything-for-closed-schools/)||USA|Freely available to all schools facing closures through the end of the 2019-2020 school year|[COVID-19 School Closure Response](https://mangolanguages.com/info/covid19-response.cfm)
+| Service                                                      | Description                                                  | Countries                                                    | Validity                                                     | Source                                                       |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [🔥 Explain Everything](https://explaineverything.com/keep-calm-and-teach-online-free-explain-everything-for-closed-schools/) | Teach, present, sketch, note, create videos, and work together in this online and mobile whiteboard app. | 🌍                                                            |                                                              | [Source](https://explaineverything.com/keep-calm-and-teach-online-free-explain-everything-for-closed-schools/) |
+| [🔥 LogMeIn Products (GoToMeeting, GoToWebinar)](https://www.gotomeeting.com/work-remote) | Collaboration tools for businesses and communities, with support for video and audio calls, screensharing, messaging and meeting transcription. | 🌍                                                            | Available for eligible healthcare providers, educational institutions, municipalities, and non-profit organizations as well as any current LogMeIn customer | [Coronavirus Disruptions: An Offer of Support to our Communities and Customers](https://blog.gotomeeting.com/coronavirus-disruptions-and-support/) |
+| [🔥 Zoom](https://zoom.us/docs/ent/school-verification.html)  | Service for online meetings, webinars, trainings, and collaborative conference rooms. | [List here](https://blog.zoom.us/wordpress/2020/03/13/how-to-use-zoom-for-online-learning/) |                                                              | [UPDATE: How to Use Zoom for Online Learning](https://blog.zoom.us/wordpress/2020/03/13/how-to-use-zoom-for-online-learning/) |
 
 ### External Courses
 
-Course/service|Countries|Notes|Source
---------------|---------|-----|------
-[Coursera for Campus](https://www.coursera.org/coronavirus#form)|🌍|Learners will have access to their courses through September 30, 2020|[Take student learning online in response to coronavirus](https://www.coursera.org/coronavirus)
-[COVID-19: Tackling the Novel Coronavirus](https://www.futurelearn.com/courses/covid19-novel-coronavirus)|🌍|Free online course. What is COVID-19 and how might the outbreak affect you? Find out more about coronavirus and explore its worldwide implications.|[COVID-19: FutureLearn offers free online coronavirus course](https://about.futurelearn.com/blog/coronavirus-futurelearn-course)
-[Khan Academy](https://www.khanacademy.org/)|🌍||[How can Khan Academy be used for remote learning during school closures? ](https://khanacademy.zendesk.com/hc/en-us/articles/360040167432-How-can-Khan-Academy-be-used-for-remote-learning-during-school-closures-)
+| Service                                                      | Description                                                  | Countries | Validity                                                     | Source                                                       |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | --------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [🔥 Coursera for Campus](https://www.coursera.org/coronavirus#form) | Access 3,800 courses and 400 specializations.                | 🌍         | Learners will have access to their courses through September 30, 2020 | [Source](https://www.coursera.org/coronavirus)               |
+| [COVID-19: Tackling the Novel Coronavirus](https://www.futurelearn.com/courses/covid19-novel-coronavirus) | Free online course. What is COVID-19 and how might the outbreak affect you? Find out more about coronavirus and explore its worldwide implications. | 🌍         |                                                              | [Source](https://about.futurelearn.com/blog/coronavirus-futurelearn-course) |
+| [Khan Academy](https://www.khanacademy.org/)                 | Nonprofit with the mission to provide a free, world-class education for anyone, anywhere. | 🌍         |                                                              | [Source](https://khanacademy.zendesk.com/hc/en-us/articles/360040167432-How-can-Khan-Academy-be-used-for-remote-learning-during-school-closures-) |
 
 ### Languages
 
-Service|Description|Countries|Notes|Source
--------|-----------|---------|-----|------
-[Mango Classroom](https://mangolanguages.com/info/covid19-response.cfm)|Language learning resource that combines quality content, intelligent technology, and an adaptive algorithm that delivers practical phrases from real situations in over 70 supported languages.|USA|Freely available to all schools facing closures through the end of the 2019-2020 school year|[Source](https://mangolanguages.com/info/covid19-response.cfm)
+| Service                                                      | Description                                                  | Countries | Validity                                                     | Source                                                       |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | --------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [🔥 Mango Classroom](https://mangolanguages.com/info/covid19-response.cfm) | Language learning resource that combines quality content, intelligent technology, and an adaptive algorithm that delivers practical phrases from real situations in over 70 supported languages. | USA       | Freely available to all schools facing closures through the end of the 2019-2020 school year | [Source](https://mangolanguages.com/info/covid19-response.cfm) |
 
 ### Mathematics
 
-Tool|Description|Countries|Notes|Source
-----|-----------|---------|-----|------
-[eMathStudio](https://emathstudio.com/distance-learning)|Calculate math, get immediate feedback and share work from home.|🌍||
+| Tool                                                       | Description                                                  | Countries | Validity | Source |
+| ---------------------------------------------------------- | ------------------------------------------------------------ | --------- | -------- | ------ |
+| [🔥 eMathStudio](https://emathstudio.com/distance-learning) | Calculate math, get immediate feedback and share work from home. | 🌍         |          |        |
 
 ### Articles on Remote Studying/Teaching
 
 #### For Students
+
 - [A student guide to studying online](https://www.tonybates.ca/2012/02/29/a-student-guide-to-studying-online/)
 - [Resources to help you and students understand COVID-19 and more](https://docs.google.com/document/d/1yBE1cCqJ_4M-JZ62K4CefmYsZugqAWkGmZmdwESt0IM/preview#)
 - [The Open University - Study Skills](https://help.open.ac.uk/topic/study-skills)
 - [Your Complete Guide to Distance Learning](https://enabley.io/your-complete-guide-to-distance-learning/)
 
 #### For Teachers
+
 - [Accessible Teaching in the Time of COVID-19](https://www.mapping-access.com/blog-1/2020/3/10/accessible-teaching-in-the-time-of-covid-19)
 - [Advice to those about to teach online because of the corona-virus](https://www.tonybates.ca/2020/03/09/advice-to-those-about-to-teach-online-because-of-the-corona-virus/)
 - [COVID-19 and Students with Disabilities](https://www.ncsecs.org/news/covid-19-and-students-with-disabilities/)
 - [Creating an Online Community, Class or Conference - Quick Tech Guide](https://docs.google.com/document/d/1ux3lTnUTpzZRuvxE3rAsSQ4Ihub96S8_OYECNh8wv-A/mobilebasic#cmnt1)
 - [Crowdsourcing: Teaching Online with Care](http://bit.ly/onlinewithcare)
 - 📕 [Digital Teaching In Higher Education
-Designing E-learning for International Students of Technology, Innovation and the Environment](http://www.tomw.net.au/digital_teaching/index.shtml)
+  Designing E-learning for International Students of Technology, Innovation and the Environment](http://www.tomw.net.au/digital_teaching/index.shtml)
 - [In the Eye of the Storm: Students’ Perceptions of Helpful Faculty Actions Following a Collective Tragedy](http://podnetwork.org/content/uploads/In_the_Eye.pdf)
 - [Issues in Accessing Distance Education Technologies for Individuals with Disabilities](http://ncdae.org/resources/articles/technology.php)
 - [Going Online in a Hurry: What to Do and Where to Start](https://www.chronicle.com/article/Going-Online-in-a-Hurry-What/248207)
@@ -104,25 +108,25 @@ Designing E-learning for International Students of Technology, Innovation and th
 
 
 ## Remote Work
+
 Remote working tools and services have been around for a while but recently some of the big players have made their premium offerings partly or fully free. If you know more, please [contribute](#contribute)!
 
 ### All-In-One Services
 
-Tool|Features|Countries|Notes|Source
-----|--------|---------|-----|------
-[3CX Standard Edition](https://www.3cx.com/phone-system/covid-19-remote-working/)|📱💻👨‍👩‍👧‍👦📁📹🎤📧|🌍|3 years|[3CX Offers 3 years Free Remote Working Solution in Wake of Covid-19](https://www.3cx.com/blog/news/covid-19-remote-working/)
-[Adobe Connect](https://www.adobe.com/products/adobeconnect/trial.html)|📱💻👨‍👩‍👧‍👦📁📹🎤📧📅|🌍|Free fully functional trial extended to 90 days due to COVID-19|[Adobe Connect Extending Support in Light of COVID-19 Impact](https://blogs.adobe.com/adobeconnect/2020/03/adobe-connect-extending-support-in-the-wake-of-covid-19.html)
-[Facebook Workplace](https://www.facebook.com/workplace)|📱💻👨‍👩‍👧‍👦📁📹📧|🌍||
-[Office 365 E1](https://www.microsoft.com/en-us/microsoft-365/blog/2020/03/05/our-commitment-to-customers-during-covid-19/) Contact Microsoft partner or sales representative|📱💻👨‍👩‍👧‍👦📁📹🎤📧📅|🌍|Free for six months|[Our commitment to customers during COVID-19](https://www.microsoft.com/en-us/microsoft-365/blog/2020/03/05/our-commitment-to-customers-during-covid-19/)
+| Service                                                      | Description                                                  | Countries | Validity            | Source                                                       |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | --------- | ------------------- | ------------------------------------------------------------ |
+| [Facebook Workplace](https://www.facebook.com/workplace)     | Team collaboration service with, groups, video calls, file storage, translation, video streaming, mobile apps etc. | 🌍         |                     |                                                              |
+| [🔥 Office 365 E1](https://www.microsoft.com/en-us/microsoft-365/blog/2020/03/05/our-commitment-to-customers-during-covid-19/) | Web-based Office apps and business services, including Microsoft Teams for team collaboration. Contact Microsoft partner or sales representative to apply. | 🌍         | Free for six months | [Source](https://www.microsoft.com/en-us/microsoft-365/blog/2020/03/05/our-commitment-to-customers-during-covid-19/) |
 
 ### Real-Time Communication
 
-Tool|Features|Countries|Notes|Source
-----|--------|---------|-----|------
-[Cisco Webex](https://www.webex.com/)|📱💻👨‍👩‍👧‍👦📁📹🎤📧|[List here](https://help.webex.com/en-us/n80v1rcb/Cisco-Webex-Available-Free-in-These-Countries-COVID-19-Response)|Time limits removed and participant amount increased to 100 for free accounts|[Cisco Webex: Supporting customers during this unprecedented time](https://blog.webex.com/video-conferencing/cisco-webex-supporting-customers-during-this-unprecedented-time/)
-[LogMeIn Products (GoToMeeting, GoToWebinar)](https://www.gotomeeting.com/work-remote)|📱💻📹🎤📧📅|🌍|Available for eligible healthcare providers, educational institutions, municipalities, and non-profit organizations as well as any current LogMeIn customer|[Coronavirus Disruptions: An Offer of Support to our Communities and Customers](https://blog.gotomeeting.com/coronavirus-disruptions-and-support/)
-[Slack](https://slack.com/get-started#/)|📱💻👨‍👩‍👧‍👦📁📹🎤📧|🌍|No group audio or video calls or screen sharing in the free tier|
-[Zoom](https://zoom.us/docs/ent/school-verification.html?zcid=1231&_ga=2.228851412.995105639.1583699918-735451631.1546545079)|📱💻👨‍👩‍👧‍👦📹🎤📅|[List here](https://blog.zoom.us/wordpress/2020/03/13/how-to-use-zoom-for-online-learning/)|Temporarily removed time limits, only for schools|[UPDATE: How to Use Zoom for Online Learning](https://blog.zoom.us/wordpress/2020/03/13/how-to-use-zoom-for-online-learning/)
+| Service                                                      | Description                                                  | Countries                                                    | Validity                                                     | Source                                                       |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [🔥 3CX Standard Edition](https://www.3cx.com/phone-system/covid-19-remote-working/) | Collaborative meeting service with live chat, video and audio calls, and support for desktop, web and mobile. | 🌍                                                            | Free for 3 years for unlimited users                         | [Source](https://www.3cx.com/blog/news/covid-19-remote-working/) |
+| [🔥 Adobe Connect](https://www.adobe.com/products/adobeconnect/trial.html) | Extensible web conferencing solution with chat pods, polls, quizzes, simulations, breakout rooms, games and more. | 🌍                                                            | Free fully functional trial extended to 90 days due to COVID-19 | [Source](https://blogs.adobe.com/adobeconnect/2020/03/adobe-connect-extending-support-in-the-wake-of-covid-19.html) |
+| [🔥 Cisco Webex](https://www.webex.com/)                      | Video conferencing, training and team collaboration services with video calls and support for interactive webinars. | [List here](https://help.webex.com/en-us/n80v1rcb/Cisco-Webex-Available-Free-in-These-Countries-COVID-19-Response) | Time limits removed and participant amount increased to 100 for free accounts | [Source](https://blog.webex.com/video-conferencing/cisco-webex-supporting-customers-during-this-unprecedented-time/) |
+| [🔥 LogMeIn Products (GoToMeeting, GoToWebinar)](https://www.gotomeeting.com/work-remote) | Collaboration tools for businesses and communities, with support for video and audio calls, screensharing, messaging and meeting transcription. | 🌍                                                            | Available for eligible healthcare providers, educational institutions, municipalities, and non-profit organizations as well as any current LogMeIn customer | [Source](https://blog.gotomeeting.com/coronavirus-disruptions-and-support/) |
+| [Slack](https://slack.com/get-started#/)                     | Collaboration software with channels, messaging, and 1:1 voice and video calls in the free version. | 🌍                                                            | No group audio or video calls or screen sharing in the free tier |                                                              |
 
 ### Articles
 
@@ -152,12 +156,12 @@ Tool|Features|Countries|Notes|Source
 
 ## Other Lists
 
-List|Notes
-----|-----
-[Distance learning solutions - Unesco](https://en.unesco.org/themes/education-emergencies/coronavirus-school-closures/solutions)|List of educational applications and platforms to help parents, teachers, schools and school systems facilitate student learning and provide social caring and interaction during periods of school closure.
-[Free Tools for Schools Dealing with Corona](https://docs.google.com/document/d/1BQJEQczyMOkG_80RBT2ouROB3ISUe93Yc2jloWvnJXM)|List of companies that have announced services enhanced or made free to schools as they deal with closures due to COVID 19.
-[koulu.me](https://koulu.me/)|Right to education - Free apps and resources to support distance learning in schools affected by the coronavirus outbreak
-[Tech against Coronavirus](https://techagainstcoronavirus.com/edu/)|A list of products you can use to maintain collaboration and work remotely with your team
+| List                                                         | Description                                                  |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [Distance learning solutions - Unesco](https://en.unesco.org/themes/education-emergencies/coronavirus-school-closures/solutions) | List of educational applications and platforms to help parents, teachers, schools and school systems facilitate student learning and provide social caring and interaction during periods of school closure. |
+| [Free Tools for Schools Dealing with Corona](https://docs.google.com/document/d/1BQJEQczyMOkG_80RBT2ouROB3ISUe93Yc2jloWvnJXM) | List of companies that have announced services enhanced or made free to schools as they deal with closures due to COVID 19. |
+| [koulu.me](https://koulu.me/)                                | Right to education - Free apps and resources to support distance learning in schools affected by the coronavirus outbreak |
+| [Tech against Coronavirus](https://techagainstcoronavirus.com/edu/) | A list of products you can use to maintain collaboration and work remotely with your team |
 
 
 ## Contributing
