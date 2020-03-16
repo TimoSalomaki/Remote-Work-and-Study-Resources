@@ -56,14 +56,14 @@ Khan Academy|[Start Here](https://www.khanacademy.org/)|🌍||[How can Khan Acad
 - [Crowdsourcing: Teaching Online with Care](http://bit.ly/onlinewithcare)
 - 📕 [Digital Teaching In Higher Education
 Designing E-learning for International Students of Technology, Innovation and the Environment](http://www.tomw.net.au/digital_teaching/index.shtml)
-- [In the Eye of the Storm:  Students’ Perceptions ofHelpful Faculty Actions Following a Collective Tragedy](http://podnetwork.org/content/uploads/In_the_Eye.pdf)
+- [In the Eye of the Storm: Students’ Perceptions of Helpful Faculty Actions Following a Collective Tragedy](http://podnetwork.org/content/uploads/In_the_Eye.pdf)
 - [Going Online in a Hurry: What to Do and Where to Start](https://www.chronicle.com/article/Going-Online-in-a-Hurry-What/248207)
 - [Resources to help you and students understand COVID-19 and more](https://docs.google.com/document/d/1yBE1cCqJ_4M-JZ62K4CefmYsZugqAWkGmZmdwESt0IM/preview#)
 - [Teaching Effectively During Times of Disruption](https://docs.google.com/document/d/1ccsudB2vwZ_GJYoKlFzGbtnmftGcXwCIwxzf-jkkoCU/preview)
 - [Ten Tips for Quickly Converting Courses for Online Delivery ](https://blog.highereducationwhisperer.com/2020/02/some-tips-for-quickly-converting.html)
 
 ## Remote Work
-Remote workin tools and services have been around for a while but recently some of the big players have made their premium offerings partly or fully free. If you know more, please [contribute](#contribute)!
+Remote working tools and services have been around for a while but recently some of the big players have made their premium offerings partly or fully free. If you know more, please [contribute](#contribute)!
 
 ### All-In-One Services
 
