@@ -1,4 +1,4 @@
-# COVID-19 Remote Work and Study Resources
+![Repository Logo](https://raw.githubusercontent.com/HankiDesign/COVID-19-Remote-Work-and-Study-Resources/master/RepoLogo.png)
 
 The COVID-19 situation forces people all over the world to work or study remotely for the first time in their lives. This repository aims to aggregate all the important information, free resources and other stuff that helps people make the best of the unfortunate situation and continue with their daily tasks.
 
