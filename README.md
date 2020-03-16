@@ -6,10 +6,12 @@ The COVID-19 situation forces people all over the world to work or study remotel
 
 ## Topics
 - [Remote Studying/Teaching](#remote-studyingteaching)
-  - [All In One Tools/Services](#all-in-one-toolsservices)
-  - [External Courses](#external-courses)
-  - [Mathematics](#mathematics)
-  - [Articles on Remote Studying/Teaching](#articles-on-remote-studyingteaching)
+  - [👩‍🏫 All In One Tools/Services](#all-in-one-toolsservices)
+  - [👨‍👧‍👦 Collaboration](#collaboration)
+  - [👨‍🎓 External Courses](#external-courses)
+  - [💬 Languages](#languages)
+  - [🧮 Mathematics](#mathematics)
+  - [📰 Articles on Remote Studying/Teaching](#articles-on-remote-studyingteaching)
     - [For Students](#for-students)
     - [For Teachers](#for-teachers)
     - [Tools & Resources](#tools--resources)
@@ -38,13 +40,18 @@ There are numerous tools and services for both studying and teaching remotely. H
 
 ### All-In-One Tools/Services
 
-Tool|Features|Countries|Notes|Source
-----|--------|---------|-----|------
-[Mango Classroom](https://mangolanguages.com/info/covid19-response.cfm)|📱💻👨‍👩‍👧‍👦📖📝|USA|Freely available to all schools facing closures through the end of the 2019-2020 school year|[COVID-19 School Closure Response](https://mangolanguages.com/info/covid19-response.cfm)
-[Office 365 A1](https://www.microsoft.com/en-us/microsoft-365/academic/compare-office-365-education-plans?activetab=tab:primaryr1)|📱💻👨‍👩‍👧‍👦📖📝📁📹🎤📧|🌍||[Helping teachers and students make the switch to remote learning](https://www.microsoft.com/en-us/microsoft-365/blog/2020/03/11/helping-teachers-students-switch-remote-learning/)
-[Office 365 A5](https://www.microsoft.com/en-us/microsoft-365/academic/compare-office-365-education-plans?activetab=tab:primaryr1)|📱💻👨‍👩‍👧‍👦📖📝📁📹🎤📧|USA, Italy, Japan, South Korea|Free for six months|[Helping teachers and students make the switch to remote learning](https://www.microsoft.com/en-us/microsoft-365/blog/2020/03/11/helping-teachers-students-switch-remote-learning/)
-[Top Hat](https://tophat.com/covid-19-response/)|📱💻👨‍👩‍👧‍👦📖📝📁📹🎤📧|United States, Canada, United Kingdom|The product is aimed for colleges and universities, valid until the end of the semester|[COVID-19: We’re making Top Hat free of charge](https://tophat.com/covid-19-response/)
-[Vuolearning](https://www.etakoulu.fi/)|📱💻👨‍👩‍👧‍👦📖📝📁📧|Finland|Free until June 30th, 2020|[Twitter announcement](https://twitter.com/Vuolearning/status/1238509445543612416)
+Service|Description|Countries|Notes|Source
+-------|-----------|---------|-----|------
+[Office 365 A1](https://www.microsoft.com/en-us/microsoft-365/academic/compare-office-365-education-plans?activetab=tab:primaryr1)||🌍||[Source](https://www.microsoft.com/en-us/microsoft-365/blog/2020/03/11/helping-teachers-students-switch-remote-learning/)
+[Office 365 A5](https://www.microsoft.com/en-us/microsoft-365/academic/compare-office-365-education-plans?activetab=tab:primaryr1)||USA, Italy, Japan, South Korea|Free for six months|[Source](https://www.microsoft.com/en-us/microsoft-365/blog/2020/03/11/helping-teachers-students-switch-remote-learning/)
+[Top Hat](https://tophat.com/covid-19-response/)||United States, Canada, United Kingdom|The product is aimed for colleges and universities, valid until the end of the semester|[Source](https://tophat.com/covid-19-response/)
+[Vuolearning](https://www.etakoulu.fi/)||Finland|Free until June 30th, 2020|[Source](https://twitter.com/Vuolearning/status/1238509445543612416)
+
+### Collaboration
+
+Service|Description|Countries|Notes|Source
+-------|-----------|---------|-----|------
+[Explain Everything](https://explaineverything.com/keep-calm-and-teach-online-free-explain-everything-for-closed-schools/)||USA|Freely available to all schools facing closures through the end of the 2019-2020 school year|[COVID-19 School Closure Response](https://mangolanguages.com/info/covid19-response.cfm)
 
 ### External Courses
 
@@ -53,6 +60,12 @@ Course/service|Countries|Notes|Source
 [Coursera for Campus](https://www.coursera.org/coronavirus#form)|🌍|Learners will have access to their courses through September 30, 2020|[Take student learning online in response to coronavirus](https://www.coursera.org/coronavirus)
 [COVID-19: Tackling the Novel Coronavirus](https://www.futurelearn.com/courses/covid19-novel-coronavirus)|🌍|Free online course. What is COVID-19 and how might the outbreak affect you? Find out more about coronavirus and explore its worldwide implications.|[COVID-19: FutureLearn offers free online coronavirus course](https://about.futurelearn.com/blog/coronavirus-futurelearn-course)
 [Khan Academy](https://www.khanacademy.org/)|🌍||[How can Khan Academy be used for remote learning during school closures? ](https://khanacademy.zendesk.com/hc/en-us/articles/360040167432-How-can-Khan-Academy-be-used-for-remote-learning-during-school-closures-)
+
+### Languages
+
+Service|Description|Countries|Notes|Source
+-------|-----------|---------|-----|------
+[Mango Classroom](https://mangolanguages.com/info/covid19-response.cfm)|Language learning resource that combines quality content, intelligent technology, and an adaptive algorithm that delivers practical phrases from real situations in over 70 supported languages.|USA|Freely available to all schools facing closures through the end of the 2019-2020 school year|[Source](https://mangolanguages.com/info/covid19-response.cfm)
 
 ### Mathematics
 
