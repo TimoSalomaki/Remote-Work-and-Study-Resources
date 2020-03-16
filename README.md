@@ -8,6 +8,7 @@ The COVID-19 situation forces people all over the world to work or study remotel
 - [Remote Studying/Teaching](#remote-studyingteaching)
   - [All In One Tools/Services](#all-in-one-toolsservices)
   - [External Courses](#external-courses)
+  - [Mathematics](#mathematics)
   - [Articles on Remote Studying/Teaching](#articles-on-remote-studyingteaching)
 - [Remote Work](#remote-work)
   - [All In One Services](#all-in-one-services)
@@ -32,20 +33,26 @@ There are numerous tools and services for both studying and teaching remotely. H
 
 ### All-In-One Tools/Services
 
-Tool|Link|Features|Countries|Notes|Source
-----|----|--------|---------|-----|------
-Mango Classroom|[Apply](https://mangolanguages.com/info/covid19-response.cfm)|📱💻👨‍👩‍👧‍👦📖📝|USA|Freely available to all schools facing closures through the end of the 2019-2020 school year|[COVID-19 School Closure Response](https://mangolanguages.com/info/covid19-response.cfm)
-Office 365 A1|[Sign Up](https://www.microsoft.com/en-us/microsoft-365/academic/compare-office-365-education-plans?activetab=tab:primaryr1)|📱💻👨‍👩‍👧‍👦📖📝📁📹🎤📧|🌍||[Helping teachers and students make the switch to remote learning](https://www.microsoft.com/en-us/microsoft-365/blog/2020/03/11/helping-teachers-students-switch-remote-learning/)
-Office 365 A5|[Sign Up](https://www.microsoft.com/en-us/microsoft-365/academic/compare-office-365-education-plans?activetab=tab:primaryr1)|📱💻👨‍👩‍👧‍👦📖📝📁📹🎤📧|USA, Italy, Japan, South Korea|Free for six months|[Helping teachers and students make the switch to remote learning](https://www.microsoft.com/en-us/microsoft-365/blog/2020/03/11/helping-teachers-students-switch-remote-learning/)
-Top Hat|[Get Started](https://tophat.com/covid-19-response/)|📱💻👨‍👩‍👧‍👦📖📝📁📹🎤📧|United States, Canada, United Kingdom|The product is aimed for colleges and universities, valid until the end of the semester|[COVID-19: We’re making Top Hat free of charge](https://tophat.com/covid-19-response/)
-Vuolearning|[Apply](https://www.etakoulu.fi/)|📱💻👨‍👩‍👧‍👦📖📝📁📧|Finland|Free until June 30th, 2020|[Twitter announcement](https://twitter.com/Vuolearning/status/1238509445543612416)
+Tool|Features|Countries|Notes|Source
+----|--------|---------|-----|------
+[Mango Classroom](https://mangolanguages.com/info/covid19-response.cfm)|📱💻👨‍👩‍👧‍👦📖📝|USA|Freely available to all schools facing closures through the end of the 2019-2020 school year|[COVID-19 School Closure Response](https://mangolanguages.com/info/covid19-response.cfm)
+[Office 365 A1](https://www.microsoft.com/en-us/microsoft-365/academic/compare-office-365-education-plans?activetab=tab:primaryr1)|📱💻👨‍👩‍👧‍👦📖📝📁📹🎤📧|🌍||[Helping teachers and students make the switch to remote learning](https://www.microsoft.com/en-us/microsoft-365/blog/2020/03/11/helping-teachers-students-switch-remote-learning/)
+[Office 365 A5](https://www.microsoft.com/en-us/microsoft-365/academic/compare-office-365-education-plans?activetab=tab:primaryr1)|📱💻👨‍👩‍👧‍👦📖📝📁📹🎤📧|USA, Italy, Japan, South Korea|Free for six months|[Helping teachers and students make the switch to remote learning](https://www.microsoft.com/en-us/microsoft-365/blog/2020/03/11/helping-teachers-students-switch-remote-learning/)
+[Top Hat](https://tophat.com/covid-19-response/)|📱💻👨‍👩‍👧‍👦📖📝📁📹🎤📧|United States, Canada, United Kingdom|The product is aimed for colleges and universities, valid until the end of the semester|[COVID-19: We’re making Top Hat free of charge](https://tophat.com/covid-19-response/)
+[Vuolearning](https://www.etakoulu.fi/)|📱💻👨‍👩‍👧‍👦📖📝📁📧|Finland|Free until June 30th, 2020|[Twitter announcement](https://twitter.com/Vuolearning/status/1238509445543612416)
 
 ### External Courses
 
 Course/service|Link|Countries|Notes|Source
 --------------|----|---------|-----|------
-Coursera for Campus|[Get Started](https://www.coursera.org/coronavirus#form)|🌍|Learners will have access to their courses through September 30, 2020|[Take student learning online in response to coronavirus](https://www.coursera.org/coronavirus)
-Khan Academy|[Start Here](https://www.khanacademy.org/)|🌍||[How can Khan Academy be used for remote learning during school closures? ](https://khanacademy.zendesk.com/hc/en-us/articles/360040167432-How-can-Khan-Academy-be-used-for-remote-learning-during-school-closures-)
+[Coursera for Campus](https://www.coursera.org/coronavirus#form)|🌍|Learners will have access to their courses through September 30, 2020|[Take student learning online in response to coronavirus](https://www.coursera.org/coronavirus)
+[Khan Academy](https://www.khanacademy.org/)|🌍||[How can Khan Academy be used for remote learning during school closures? ](https://khanacademy.zendesk.com/hc/en-us/articles/360040167432-How-can-Khan-Academy-be-used-for-remote-learning-during-school-closures-)
+
+### Mathematics
+
+Tool|Description|Countries|Notes|Source
+----|-----------|---------|-----|------
+[eMathStudio](https://emathstudio.com/distance-learning)|Calculate math, get immediate feedback and share work from home.|🌍||
 
 ### Articles on Remote Studying/Teaching
 
@@ -67,21 +74,21 @@ Remote working tools and services have been around for a while but recently some
 
 ### All-In-One Services
 
-Tool|Link|Features|Countries|Notes|Source
-----|----|--------|---------|-----|------
-3CX Standard Edition|[Sign Up](https://www.3cx.com/phone-system/covid-19-remote-working/)|📱💻👨‍👩‍👧‍👦📁📹🎤📧|🌍|3 years|[3CX Offers 3 years Free Remote Working Solution in Wake of Covid-19](https://www.3cx.com/blog/news/covid-19-remote-working/)
-Adobe Connect|[Sign Up](https://www.adobe.com/products/adobeconnect/trial.html)|📱💻👨‍👩‍👧‍👦📁📹🎤📧📅|🌍|Free fully functional trial extended to 90 days due to COVID-19|[Adobe Connect Extending Support in Light of COVID-19 Impact](https://blogs.adobe.com/adobeconnect/2020/03/adobe-connect-extending-support-in-the-wake-of-covid-19.html)
-Facebook Workplace|[Sign Up](https://www.facebook.com/workplace)|📱💻👨‍👩‍👧‍👦📁📹📧|🌍||
-Office 365 E1|Contact Microsoft partner or sales representative ([Source](https://www.microsoft.com/en-us/microsoft-365/blog/2020/03/05/our-commitment-to-customers-during-covid-19/))|📱💻👨‍👩‍👧‍👦📁📹🎤📧📅|🌍|Free for six months|[Our commitment to customers during COVID-19](https://www.microsoft.com/en-us/microsoft-365/blog/2020/03/05/our-commitment-to-customers-during-covid-19/)
+Tool|Features|Countries|Notes|Source
+----|--------|---------|-----|------
+[3CX Standard Edition](https://www.3cx.com/phone-system/covid-19-remote-working/)|📱💻👨‍👩‍👧‍👦📁📹🎤📧|🌍|3 years|[3CX Offers 3 years Free Remote Working Solution in Wake of Covid-19](https://www.3cx.com/blog/news/covid-19-remote-working/)
+[Adobe Connect](https://www.adobe.com/products/adobeconnect/trial.html)|📱💻👨‍👩‍👧‍👦📁📹🎤📧📅|🌍|Free fully functional trial extended to 90 days due to COVID-19|[Adobe Connect Extending Support in Light of COVID-19 Impact](https://blogs.adobe.com/adobeconnect/2020/03/adobe-connect-extending-support-in-the-wake-of-covid-19.html)
+[Facebook Workplace](https://www.facebook.com/workplace)|📱💻👨‍👩‍👧‍👦📁📹📧|🌍||
+[Office 365 E1](https://www.microsoft.com/en-us/microsoft-365/blog/2020/03/05/our-commitment-to-customers-during-covid-19/) Contact Microsoft partner or sales representative|📱💻👨‍👩‍👧‍👦📁📹🎤📧📅|🌍|Free for six months|[Our commitment to customers during COVID-19](https://www.microsoft.com/en-us/microsoft-365/blog/2020/03/05/our-commitment-to-customers-during-covid-19/)
 
 ### Real-Time Communication
 
-Tool|Link|Features|Countries|Notes|Source
-----|----|--------|---------|-----|------
-Cisco Webex|[Sign Up](https://www.webex.com/)|📱💻👨‍👩‍👧‍👦📁📹🎤📧|[List here](https://help.webex.com/en-us/n80v1rcb/Cisco-Webex-Available-Free-in-These-Countries-COVID-19-Response)|Time limits removed and participant amount increased to 100 for free accounts|[Cisco Webex: Supporting customers during this unprecedented time](https://blog.webex.com/video-conferencing/cisco-webex-supporting-customers-during-this-unprecedented-time/)
-LogMeIn Products (GoToMeeting, GoToWebinar)|[Emergency Remote Work Kits](https://www.gotomeeting.com/work-remote)|📱💻📹🎤📧📅|🌍|Available for eligible healthcare providers, educational institutions, municipalities, and non-profit organizations as well as any current LogMeIn customer|[Coronavirus Disruptions: An Offer of Support to our Communities and Customers](https://blog.gotomeeting.com/coronavirus-disruptions-and-support/)
-Slack|[Get Started](https://slack.com/get-started#/)|📱💻👨‍👩‍👧‍👦📁📹🎤📧|🌍|No group audio or video calls or screen sharing in the free tier|
-Zoom|[Apply](https://zoom.us/docs/ent/school-verification.html?zcid=1231&_ga=2.228851412.995105639.1583699918-735451631.1546545079)|📱💻👨‍👩‍👧‍👦📹🎤📅|[List here](https://blog.zoom.us/wordpress/2020/03/13/how-to-use-zoom-for-online-learning/)|Temporarily removed time limits, only for schools|[UPDATE: How to Use Zoom for Online Learning](https://blog.zoom.us/wordpress/2020/03/13/how-to-use-zoom-for-online-learning/)
+Tool|Features|Countries|Notes|Source
+----|--------|---------|-----|------
+[Cisco Webex](https://www.webex.com/)|📱💻👨‍👩‍👧‍👦📁📹🎤📧|[List here](https://help.webex.com/en-us/n80v1rcb/Cisco-Webex-Available-Free-in-These-Countries-COVID-19-Response)|Time limits removed and participant amount increased to 100 for free accounts|[Cisco Webex: Supporting customers during this unprecedented time](https://blog.webex.com/video-conferencing/cisco-webex-supporting-customers-during-this-unprecedented-time/)
+[LogMeIn Products (GoToMeeting, GoToWebinar)](https://www.gotomeeting.com/work-remote)|📱💻📹🎤📧📅|🌍|Available for eligible healthcare providers, educational institutions, municipalities, and non-profit organizations as well as any current LogMeIn customer|[Coronavirus Disruptions: An Offer of Support to our Communities and Customers](https://blog.gotomeeting.com/coronavirus-disruptions-and-support/)
+[Slack](https://slack.com/get-started#/)|📱💻👨‍👩‍👧‍👦📁📹🎤📧|🌍|No group audio or video calls or screen sharing in the free tier|
+[Zoom](https://zoom.us/docs/ent/school-verification.html?zcid=1231&_ga=2.228851412.995105639.1583699918-735451631.1546545079)|📱💻👨‍👩‍👧‍👦📹🎤📅|[List here](https://blog.zoom.us/wordpress/2020/03/13/how-to-use-zoom-for-online-learning/)|Temporarily removed time limits, only for schools|[UPDATE: How to Use Zoom for Online Learning](https://blog.zoom.us/wordpress/2020/03/13/how-to-use-zoom-for-online-learning/)
 
 ### Articles
 
