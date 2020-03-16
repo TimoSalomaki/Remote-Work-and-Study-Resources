@@ -143,6 +143,7 @@ List|Notes
 ----|-----
 [Distance learning solutions - Unesco](https://en.unesco.org/themes/education-emergencies/coronavirus-school-closures/solutions)|List of educational applications and platforms to help parents, teachers, schools and school systems facilitate student learning and provide social caring and interaction during periods of school closure.
 [Free Tools for Schools Dealing with Corona](https://docs.google.com/document/d/1BQJEQczyMOkG_80RBT2ouROB3ISUe93Yc2jloWvnJXM)|List of companies that have announced services enhanced or made free to schools as they deal with closures due to COVID 19.
+[koulu.me](https://koulu.me/)|Right to education - Free apps and resources to support distance learning in schools affected by the coronavirus outbreak
 [Tech against Coronavirus](https://techagainstcoronavirus.com/edu/)|A list of products you can use to maintain collaboration and work remotely with your team
 
 
