@@ -114,6 +114,7 @@ There are certainly many great tools and services that I'm missing from this lis
 - Don't add services that pretend that their pre-existing 30-day trial is suddenly a free COVID-19 exclusive offer.
 - Keep the table entries in alphabetical order.
 - Sites with excessive ads, paywalls or other limitations will not be accepted. Any articles listed in this repository should be of high quality and be original.
+- If you want to provide a translation to your language, feel free to do so. All translations should go to a new file with a two letter language code (ISO 639‑1) suffix. (.e.g -fi, -se etc.)
 
 ## License
 
