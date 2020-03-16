@@ -7,9 +7,9 @@ The COVID-19 situation forces people all over the world to work or study remotel
 ## Topics
 
 - [Remote Studying/Teaching](#remote-studyingteaching)
-  - [👩‍🏫 All In One Tools/Services](#all-in-one-toolsservices)
   -  [👨‍👧‍👦  Collaboration](#collaboration)
   - [👨‍🎓 External Courses](#external-courses)
+  - [👩‍🏫 General](#general)
   - [💬 Languages](#languages)
   - [🧮 Mathematics](#mathematics)
   - [📰 Articles on Remote Studying/Teaching](#articles-on-remote-studyingteaching)
@@ -38,15 +38,6 @@ The following icons and formatting are used in the lists:
 
 There are numerous tools and services for both studying and teaching remotely. Here are some of the popular free tool and ones that are exceptionally offered for free due to COVID-19.
 
-### All-In-One Tools/Services
-
-| Service                                                      | Description                                                  | Countries                             | Validity                                                     | Source                                                       |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [Office 365 A1](https://www.microsoft.com/en-us/microsoft-365/academic/compare-office-365-education-plans?activetab=tab:primaryr1) | Online version of Office with email, video conferencing, hub for class teamwork with Microsoft Teams etc. | 🌍                                     | Always free                                                  | [Source](https://www.microsoft.com/en-us/microsoft-365/blog/2020/03/11/helping-teachers-students-switch-remote-learning/) |
-| [**Office 365 A5**](https://www.microsoft.com/en-us/microsoft-365/academic/compare-office-365-education-plans?activetab=tab:primaryr1) | Office 365 A1 features with higher usage limits + Office desktop apps, additional management and security tools, and analytics systems. | USA, Italy, Japan, South Korea        | Free for six months                                          | [Source](https://www.microsoft.com/en-us/microsoft-365/blog/2020/03/11/helping-teachers-students-switch-remote-learning/) |
-| [**Top Hat**](https://tophat.com/covid-19-response/)         | Easy-to-use tools to engage your classroom, adopt and author next generation interactive textbooks, create assignments on the fly and securely administer tests. | United States, Canada, United Kingdom | The product is aimed for colleges and universities, valid until the end of the semester | [Source](https://tophat.com/covid-19-response/)              |
-| [**Vuolearning**](https://www.etakoulu.fi/)                  | Distance learning solution with courses, discussions, assignments, analytics and integrations to external systems. | Finland                               | Free until June 30th, 2020                                   | [Source](https://twitter.com/Vuolearning/status/1238509445543612416) |
-
 ### Collaboration
 
 | Service                                                      | Description                                                  | Countries                                                    | Validity                                                     | Source                                                       |
@@ -63,6 +54,16 @@ There are numerous tools and services for both studying and teaching remotely. H
 | [COVID-19: Tackling the Novel Coronavirus](https://www.futurelearn.com/courses/covid19-novel-coronavirus) | Free online course. What is COVID-19 and how might the outbreak affect you? Find out more about coronavirus and explore its worldwide implications. | 🌍         |                                                              | [Source](https://about.futurelearn.com/blog/coronavirus-futurelearn-course) |
 | [Khan Academy](https://www.khanacademy.org/)                 | Nonprofit with the mission to provide a free, world-class education for anyone, anywhere. | 🌍         |                                                              | [Source](https://khanacademy.zendesk.com/hc/en-us/articles/360040167432-How-can-Khan-Academy-be-used-for-remote-learning-during-school-closures-) |
 
+### General
+
+| Service                                                      | Description                                                  | Countries                             | Validity                                                     | Source                                                       |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| **[Kahoot!](https://kahoot.com/)**                           | Game-based learning platform                                 | 🌍                                     | Remaining months of the academic year.                       | [Source](https://kahoot.com/blog/2020/02/27/kahoot-free-access-schools-higher-education-coronavirus/) |
+| [Office 365 A1](https://www.microsoft.com/en-us/microsoft-365/academic/compare-office-365-education-plans?activetab=tab:primaryr1) | Online version of Office with email, video conferencing, hub for class teamwork with Microsoft Teams etc. | 🌍                                     | Always free                                                  | [Source](https://www.microsoft.com/en-us/microsoft-365/blog/2020/03/11/helping-teachers-students-switch-remote-learning/) |
+| [**Office 365 A5**](https://www.microsoft.com/en-us/microsoft-365/academic/compare-office-365-education-plans?activetab=tab:primaryr1) | Office 365 A1 features with higher usage limits + Office desktop apps, additional management and security tools, and analytics systems. | USA, Italy, Japan, South Korea        | Free for six months                                          | [Source](https://www.microsoft.com/en-us/microsoft-365/blog/2020/03/11/helping-teachers-students-switch-remote-learning/) |
+| [**Top Hat**](https://tophat.com/covid-19-response/)         | Easy-to-use tools to engage your classroom, adopt and author next generation interactive textbooks, create assignments on the fly and securely administer tests. | United States, Canada, United Kingdom | The product is aimed for colleges and universities, valid until the end of the semester | [Source](https://tophat.com/covid-19-response/)              |
+| [**Vuolearning**](https://www.etakoulu.fi/)                  | Distance learning solution with courses, discussions, assignments, analytics and integrations to external systems. | Finland                               | Free until June 30th, 2020                                   | [Source](https://twitter.com/Vuolearning/status/1238509445543612416) |
+
 ### Languages
 
 | Service                                                      | Description                                                  | Countries | Validity                                                     | Source                                                       |
@@ -71,9 +72,10 @@ There are numerous tools and services for both studying and teaching remotely. H
 
 ### Mathematics
 
-| Tool                                                         | Description                                                  | Countries | Validity | Source |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | --------- | -------- | ------ |
-| **[eMathStudio](https://emathstudio.com/distance-learning)** | Calculate math, get immediate feedback and share work from home. | 🌍         |          |        |
+| Tool                                                         | Description                                                  | Countries | Validity                          | Source                                       |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | --------- | --------------------------------- | -------------------------------------------- |
+| **[eMathStudio](https://emathstudio.com/distance-learning)** | Calculate math, get immediate feedback and share work from home. | 🌍         |                                   |                                              |
+| **[ST Math](https://www.stmath.com/)**                       | ST Math is an instructional tool including more than 35,000 puzzles with interactive  representations of math topics that align to all state standards, with learning objectives that target key grade-level concepts and skills. | USA       | Free access through June 30, 2020 | [Source](https://www.stmath.com/home-access) |
 
 ### Articles on Remote Studying/Teaching
 
