@@ -43,9 +43,10 @@ Tool|Features|Countries|Notes|Source
 
 ### External Courses
 
-Course/service|Link|Countries|Notes|Source
---------------|----|---------|-----|------
+Course/service|Countries|Notes|Source
+--------------|---------|-----|------
 [Coursera for Campus](https://www.coursera.org/coronavirus#form)|🌍|Learners will have access to their courses through September 30, 2020|[Take student learning online in response to coronavirus](https://www.coursera.org/coronavirus)
+[COVID-19: Tackling the Novel Coronavirus](https://www.futurelearn.com/courses/covid19-novel-coronavirus)|🌍|Free online course. What is COVID-19 and how might the outbreak affect you? Find out more about coronavirus and explore its worldwide implications.|[COVID-19: FutureLearn offers free online coronavirus course](https://about.futurelearn.com/blog/coronavirus-futurelearn-course)
 [Khan Academy](https://www.khanacademy.org/)|🌍||[How can Khan Academy be used for remote learning during school closures? ](https://khanacademy.zendesk.com/hc/en-us/articles/360040167432-How-can-Khan-Academy-be-used-for-remote-learning-during-school-closures-)
 
 ### Mathematics
