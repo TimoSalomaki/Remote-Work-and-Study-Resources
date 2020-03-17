@@ -18,6 +18,7 @@ The COVID-19 situation forces people all over the world to work or study remotel
      - [Tools & Resources](#tools--resources)
 - [Remote Work](#remote-work)
   - [🛠️ All In One Services](#all-in-one-services)
+  - [💡 Miscellaneous](#miscellaneous)
   - [📡 Real-Time Communication](#real-time-communication)
   - [📰 Articles](#articles)
     - [General](#general)
