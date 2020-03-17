@@ -77,7 +77,7 @@ There are numerous tools and services for both studying and teaching remotely. H
 
 ### Mathematics
 
-| Tool                                                         | Description                                                  | Countries | Validity                          | GDPR Compliant |
+| Service                                                         | Description                                                  | Countries | Validity                          | GDPR Compliant |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | --------- | --------------------------------- | -------------- |
 | **[eMathStudio](https://emathstudio.com/distance-learning)** | Calculate math, get immediate feedback and share work from home. | 🌍         |                                   | ❔              |
 | **[ST Math](https://www.stmath.com/)** <sup>[[Announcement](https://www.stmath.com/home-access)]</sup> | ST Math is an instructional tool including more than 35,000 puzzles with interactive  representations of math topics that align to all state standards, with learning objectives that target key grade-level concepts and skills. | USA       | Free access through June 30, 2020 | ❔              |
