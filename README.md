@@ -4,8 +4,6 @@ The COVID-19 situation forces people all over the world to work or study remotel
 
 > **Note on Tools and Services:** This list deals exclusively with free products/services and premium services that offer free plans for schools, companies and individuals affected by the pandemic. Unfortunately, some companies are trying to benefit from the situation by pretending their pre-existing free trials are actually free handouts, in which case they'll be excluded from the list.
 
-> <sup>**IANAL:** Even though there's a column for GDPR compliance in each of the lists, it DOES NOT count as a legal advice. You're still expected to do the due diligence with a real lawyer or a legal expert to determine if the service really is compliant. The way I interpret it for this list is that if the company advertises that they're compliant, there will be a green tick in that column. In overall, I don't take any responsibility for the accuracy of the information represented in this list. Use at your own risk.</sup>
-
 ## Topics
 
 - [Remote Studying/Teaching](#remote-studyingteaching)
@@ -195,6 +193,10 @@ There are certainly many great tools and services that I'm missing from this lis
 - More free tools with proper categories for both distance learning and remote work
 - More hiqh quality articles for students to ease in the transition to distance learning
 - Translations into other languages. I will provide the Finnish translation soon but other languages are up for grabs.
+
+## IANAL (I Am Not A Lawyer)
+
+Even though there's a column for GDPR compliance in each of the lists, it DOES NOT count as a legal advice. You're still expected to do the due diligence with a real lawyer or a legal expert to determine if the service really is compliant. The way I interpret it for this list is that if the company advertises that they're compliant, there will be a green tick in that column. In overall, I don't take any responsibility for the accuracy of the information represented in this list. Use at your own risk.
 
 ## License
 
