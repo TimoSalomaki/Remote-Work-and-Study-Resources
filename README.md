@@ -8,7 +8,7 @@ The COVID-19 situation forces people all over the world to work or study remotel
 
 - [Remote Studying/Teaching](#remote-studyingteaching)
   -  [👨‍👧‍👦 Collaboration](#collaboration)
-  -  [👨‍🎓 External Courses](#external-courses)
+  -  [👨‍🎓 Courses and Book Collections](#courses-and-book-collections)
   -  [👩‍🏫 General](#general)
   -  [💬 Languages](#languages)
   -  [🧮 Mathematics](#mathematics)
@@ -50,10 +50,11 @@ There are numerous tools and services for both studying and teaching remotely. H
 | [**WeVideo for Schools**](https://www.wevideo.com/sign-up?anchor=plans-include#tab_education) <sup>[[Announcement](https://www.wevideo.com/blog/for-schools/wevideo-offering-support-to-schools-affected-by-covid-19)]</sup> | Creative video creation, recording, audio and collaboration tools for students and teachers. | 🌍                                                            |                                                              | ✔️ <sup>[[Info](https://www.wevideo.com/gdpr)]</sup>          |
 | [**Zoom**](https://zoom.us/docs/ent/school-verification.html) <sup>[[Announcement](https://blog.zoom.us/wordpress/2020/03/13/how-to-use-zoom-for-online-learning/)]</sup> | Service for online meetings, webinars, trainings, and collaborative conference rooms. | [List](https://blog.zoom.us/wordpress/2020/03/13/how-to-use-zoom-for-online-learning/) |                                                              | ✔️ <sup>[[Info](https://support.zoom.us/hc/en-us/articles/360000126326-Official-Statement-EU-GDPR-Compliance)]</sup> |
 
-### External Courses
+### Courses and Book Collections
 
 | Service                                                      | Description                                                  | Countries | Validity                                                     | GDPR Compliant                                               |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | --------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [**Cambridge Core Academic Textbooks**](https://www.cambridge.org/core/what-we-publish/textbooks) <sup>[[Announcement](https://www.cambridge.org/about-us/covid-19/)]</sup> | All 700 textbooks, published and currently available in HTML format on  Cambridge Core, are now available until the end of May, regardless of whether they were previously purchased. | 🌍         | Until the end of May                                         | ✔️ <sup>[[Info](https://www.cambridge.org/about-us/legal-notices/privacy-notice)]</sup> |
 | **[Coursera for Campus](https://www.coursera.org/coronavirus#form)** <sup>[[Announcement](https://www.coursera.org/coronavirus)]</sup> | Access 3,800 courses and 400 specializations.                | 🌍         | Learners will have access to their courses through September 30, 2020 | ✔️ <sup>[[Info](https://learner.coursera.help/hc/en-us/articles/360001842031-General-Data-Protection-Regulation-GDPR-)]</sup> |
 | [COVID-19: Tackling the Novel Coronavirus](https://www.futurelearn.com/courses/covid19-novel-coronavirus) <sup>[[Announcement](https://about.futurelearn.com/blog/coronavirus-futurelearn-course)]</sup> | Free online course. What is COVID-19 and how might the outbreak affect you? Find out more about coronavirus and explore its worldwide implications. | 🌍         |                                                              | ❔                                                            |
 | [Khan Academy](https://www.khanacademy.org/) <sup>[[Announcement](https://kahoot.com/blog/2020/02/27/kahoot-free-access-schools-higher-education-coronavirus/)]</sup> | Nonprofit with the mission to provide a free, world-class education for anyone, anywhere. | 🌍         |                                                              | ✔️ <sup>[[Info](https://www.khanacademy.org/about/privacy-policy)]</sup> |
@@ -203,4 +204,4 @@ Even though there's a column for GDPR compliance in each of the lists, it DOES N
 
 ## License
 
-[CC0 1.0 Universal (CC0 1.0) Public Domain](https://creativecommons.org/publicdomain/zero/1.0/)
+[CC0 1.0 Universal (CC0 1.0) Public Domain
