@@ -142,8 +142,8 @@ Remote working tools and services have been around for a while but recently some
 
 | Palvelu                                                      | Kuvaus                                                       | Maat                                                         | Voimassaolo                                                  | GDPR                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| **[3CX Standard Edition](https://www.3cx.com/phone-system/covid-19-remote-working/)** <sup>[[Uutinen](https://www.3cx.com/blog/news/covid-19-remote-working/)]</sup> | Collaborative meeting service with live chat, video and audio calls, and support for desktop, web and mobile. | 🌍                                                            | Free for 3 years for unlimited users                         | ✔️ <sup>[[Info](https://www.3cx.com/company/privacy/)]</sup>  |
-| **[Adobe Connect](https://www.adobe.com/products/adobeconnect/trial.html)** <sup>[[Uutinen](https://blogs.adobe.com/adobeconnect/2020/03/adobe-connect-extending-support-in-the-wake-of-covid-19.html)]</sup> | Extensible web conferencing solution with chat pods, polls, quizzes, simulations, breakout rooms, games and more. | 🌍                                                            | Free fully functional trial extended to 90 days due to COVID-19 | ✔️ <sup>[[Info](https://helpx.adobe.com/adobe-connect/adobe-connect-gdpr.html)]</sup> |
+| **[3CX Standard Edition](https://www.3cx.com/phone-system/covid-19-remote-working/)** <sup>[[Uutinen](https://www.3cx.com/blog/news/covid-19-remote-working/)]</sup> | Collaborative meeting service with live chat, video and audio calls, and support for desktop, web and mobile. | 🌍                                                            | Ilmainen kolmen vuoden ajan                                  | ✔️ <sup>[[Info](https://www.3cx.com/company/privacy/)]</sup>  |
+| **[Adobe Connect](https://www.adobe.com/products/adobeconnect/trial.html)** <sup>[[Uutinen](https://blogs.adobe.com/adobeconnect/2020/03/adobe-connect-extending-support-in-the-wake-of-covid-19.html)]</sup> | Extensible web conferencing solution with chat pods, polls, quizzes, simulations, breakout rooms, games and more. | 🌍                                                            | Ilmainen 90-päivän kokeiluaika                               | ✔️ <sup>[[Info](https://helpx.adobe.com/adobe-connect/adobe-connect-gdpr.html)]</sup> |
 | **[Cisco Webex](https://www.webex.com/)** <sup>[[Uutinen](https://blog.webex.com/video-conferencing/cisco-webex-supporting-customers-during-this-unprecedented-time/)]</sup> | Video conferencing, training and team collaboration services with video calls and support for interactive webinars. | [Lista](https://help.webex.com/en-us/n80v1rcb/Cisco-Webex-Available-Free-in-These-Countries-COVID-19-Response) | Time limits removed and participant amount increased to 100 for free accounts | ✔️ <sup>[[Info](https://help.webex.com/en-us/weov2i/Cisco-Webex-Support-for-GDPR)]</sup> |
 | **[LogMeIn Products (GoToMeeting, GoToWebinar)](https://www.gotomeeting.com/work-remote)** <sup>[[Uutinen](https://blog.gotomeeting.com/coronavirus-disruptions-and-support/)]</sup> | Collaboration tools for businesses and communities, with support for video and audio calls, screensharing, messaging and meeting transcription. | 🌍                                                            | Available for eligible healthcare providers, educational institutions, municipalities, and non-profit organizations as well as any current LogMeIn customer | ✔️ <sup>[[Info](https://www.logmeininc.com/gdpr/resource-center)]</sup> |
 | [Slack](https://slack.com/get-started#/)                     | Collaboration software with channels, messaging, and 1:1 voice and video calls in the free version. | 🌍                                                            | No group audio or video calls or screen sharing in the free tier | ✔️ <sup>[[Info](https://slack.com/gdpr)]</sup>                |
@@ -178,10 +178,10 @@ Remote working tools and services have been around for a while but recently some
 
 | Lista                                                        | Kuvaus                                                       |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [Distance learning solutions - Unesco](https://en.unesco.org/themes/education-emergencies/coronavirus-school-closures/solutions) | List of educational applications and platforms to help parents, teachers, schools and school systems facilitate student learning and provide social caring and interaction during periods of school closure. |
-| [Free Tools for Schools Dealing with Corona](https://docs.google.com/document/d/1BQJEQczyMOkG_80RBT2ouROB3ISUe93Yc2jloWvnJXM) | List of companies that have announced services enhanced or made free to schools as they deal with closures due to COVID 19. |
-| [koulu.me](https://koulu.me/)                                | Right to education - Free apps and resources to support distance learning in schools affected by the coronavirus outbreak |
-| [Tech against Coronavirus](https://techagainstcoronavirus.com/edu/) | A list of products you can use to maintain collaboration and work remotely with your team |
+| [Distance learning solutions - Unesco](https://en.unesco.org/themes/education-emergencies/coronavirus-school-closures/solutions) | Unescon keräämä lista opetukseen käytettävistä sovelluksista ja alustoista, joiden avulla vanhemmat, opettajat sekä koulut mahdollistavat opiskelijoiden opiskelun ja tarjoavat sosiaalista huolenpitoa sekä kanssakäyntiä koulujen kiinniolon aikana. |
+| [Free Tools for Schools Dealing with Corona](https://docs.google.com/document/d/1BQJEQczyMOkG_80RBT2ouROB3ISUe93Yc2jloWvnJXM) | Lista yrityksistä, jotka ovat julkaisseet ilmaisia tai parannettuja versioita palveluistaan kouluille, jotka ovat suljettuja koronavirustilanteen vuoksi. |
+| [koulu.me](https://koulu.me/)                                | Suomalainen palvelu, joka listaa ilmaisia sovelluksia ja resursseja etäopiskelun tueksi. |
+| [Tech against Coronavirus](https://techagainstcoronavirus.com/edu/) | Lista tuotteista joiden avulla etätyöskentelyä voidaan jatkaa saumattomasti eri työyhteisöissä. |
 
 
 ## Osallistuminen
@@ -198,16 +198,16 @@ Listalta puuttuu varmasti paljon hienoja työkaluja ja palveluita. Jos olet tiet
 
 > Huomautus ei-teknisille käyttäjille: Jos et tiedä mikä GitHub tai versionhallinta on, voit lähettää minulle ehdotuksesi LinkedInissä. Näin voin itse lisätä muutokset listalle puolestanne, jos ne ovat aiheeseen sopivat.
 
-### What is Needed?
+### Mitä vielä tarvitaan?
 
-- More free tools with proper categories for both distance learning and remote work
-- More hiqh quality articles for students to ease in the transition to distance learning
-- Translations into other languages. I will provide the Finnish translation soon but other languages are up for grabs.
+- Lisää ilmaisia työkaluja oikeisiin kategorioihin lisättynä niin opiskeluun, kuin työskentelyynkin liittyen.
+- Lisää artikkeleja, jotka auttavat opiskelijoita siirtymässä etäopiskeluun.
+- Käännöksiä muille kielille. Pidän itse huolen englannin- ja suomenkielisistä versioista, mutta muiden kielien kanssa apu tulee tarpeen. Tavoitteeni on, että kukaan listasta mahdollisesti hyötyvä ei joutuisi kielimuurin vuoksi hakea informaatiota muualta.
 
 ## IANAL (I Am Not A Lawyer)
 
-Even though there's a column for GDPR compliance in each of the lists, it DOES NOT count as a legal advice. You're still expected to do the due diligence with a real lawyer or a legal expert to determine if the service really is compliant. The way I interpret it for this list is that if the company advertises that they're compliant, there will be a green tick in that column. In overall, I don't take any responsibility for the accuracy of the information represented in this list. Use at your own risk.
+GDPR-sarakkeeseen lisäämäni yhteensopivuusmerkinnät EIVÄT ole virallisia ohjeistuksia (en ole juristi, juristin neuvoja saa koulutetulta juristilta). Jos otat työkalun tai palvelun käyttöön, on sinun vastuullasi selvittää asiantuntijoiden kanssa GDPR:ään ja muihin lain määrittämiin vaatimuksiin ja rajoitteisiin liittyvät yksityiskohdat. Oma tulkintani yhteensopivuudesta perustuu vain ja ainoastaan nopeaan yksityisyydensuojalausekkeen tai muun lähteen tarkastamiseen, enkä ota mitään vastuuta tiedon paikkaansapitävyydestä. Listan tietojen hyödyntäminen on täysin omalla vastuullasi.
 
-## License
+## Lisenssi
 
-[CC0 1.0 Universal (CC0 1.0) Public Domain
+[CC0 1.0 Yleismaailmallinen (CC0 1.0) Public Domain](https://creativecommons.org/publicdomain/zero/1.0/deed.fi)
