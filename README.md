@@ -7,7 +7,7 @@ The COVID-19 situation forces people all over the world to work or study remotel
 ## Topics
 
 - [Remote Studying/Teaching](#remote-studyingteaching)
-  -  [👨‍👧‍👦  Collaboration](#collaboration)
+  -  [👨‍👧‍👦 Collaboration](#collaboration)
   -  [👨‍🎓 External Courses](#external-courses)
   -  [👩‍🏫 General](#general)
   -  [💬 Languages](#languages)
@@ -46,6 +46,7 @@ There are numerous tools and services for both studying and teaching remotely. H
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [**Explain Everything**](https://explaineverything.com/keep-calm-and-teach-online-free-explain-everything-for-closed-schools/) <sup>[[Announcement](https://explaineverything.com/keep-calm-and-teach-online-free-explain-everything-for-closed-schools/)]</sup> | Teach, present, sketch, note, create videos, and work together in this online and mobile whiteboard app. | 🌍                                                            |                                                              | ✔️ <sup>[[Info](https://explaineverything.com/privacy-policy/)]</sup> |
 | [**LogMeIn Products (GoToMeeting, GoToWebinar**)](https://www.gotomeeting.com/work-remote) <sup>[[Announcement](https://blog.gotomeeting.com/coronavirus-disruptions-and-support/)]</sup> | Collaboration tools for businesses and communities, with support for video and audio calls, screensharing, messaging and meeting transcription. | 🌍                                                            | Available for eligible healthcare providers, educational institutions, municipalities, and non-profit organizations as well as any current LogMeIn customer | ✔️ <sup>[[Info](https://www.logmeininc.com/gdpr/resource-center)]</sup> |
+| [rumii](https://www.dogheadsimulations.com/rumii)            | Communicate, collaborate, and accelerate learning with this VR education and training platform. | 🌍                                                            | "Free until the pandemic dies down"                          | ❔                                                            |
 | [**WeVideo for Schools**](https://www.wevideo.com/sign-up?anchor=plans-include#tab_education) <sup>[[Announcement](https://www.wevideo.com/blog/for-schools/wevideo-offering-support-to-schools-affected-by-covid-19)]</sup> | Creative video creation, recording, audio and collaboration tools for students and teachers. | 🌍                                                            |                                                              | ✔️ <sup>[[Info](https://www.wevideo.com/gdpr)]</sup>          |
 | [**Zoom**](https://zoom.us/docs/ent/school-verification.html) <sup>[[Announcement](https://blog.zoom.us/wordpress/2020/03/13/how-to-use-zoom-for-online-learning/)]</sup> | Service for online meetings, webinars, trainings, and collaborative conference rooms. | [List](https://blog.zoom.us/wordpress/2020/03/13/how-to-use-zoom-for-online-learning/) |                                                              | ✔️ <sup>[[Info](https://support.zoom.us/hc/en-us/articles/360000126326-Official-Statement-EU-GDPR-Compliance)]</sup> |
 
@@ -77,7 +78,7 @@ There are numerous tools and services for both studying and teaching remotely. H
 
 ### Mathematics
 
-| Service                                                         | Description                                                  | Countries | Validity                          | GDPR Compliant |
+| Service                                                      | Description                                                  | Countries | Validity                          | GDPR Compliant |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | --------- | --------------------------------- | -------------- |
 | **[eMathStudio](https://emathstudio.com/distance-learning)** | Calculate math, get immediate feedback and share work from home. | 🌍         |                                   | ❔              |
 | **[ST Math](https://www.stmath.com/)** <sup>[[Announcement](https://www.stmath.com/home-access)]</sup> | ST Math is an instructional tool including more than 35,000 puzzles with interactive  representations of math topics that align to all state standards, with learning objectives that target key grade-level concepts and skills. | USA       | Free access through June 30, 2020 | ❔              |
@@ -202,4 +203,4 @@ Even though there's a column for GDPR compliance in each of the lists, it DOES N
 
 ## License
 
-CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
+[CC0 1.0 Universal (CC0 1.0) Public Domain](https://creativecommons.org/publicdomain/zero/1.0/)
