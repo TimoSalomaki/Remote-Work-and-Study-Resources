@@ -11,7 +11,7 @@ The COVID-19 situation forces people all over the world to work or study remotel
   -  [👨‍🎓 Courses and Book Collections](#courses-and-book-collections)
   -  [👩‍🏫 General](#general)
   -  [💬 Languages](#languages)
-  -  [🧮 Mathematics](#mathematics)
+  -  [🧮 STEM](#stem)
   -  [📰 Articles on Remote Studying/Teaching](#articles-on-remote-studyingteaching)
      - [For Students](#for-students)
      - [For Teachers](#for-teachers)
@@ -63,6 +63,7 @@ There are numerous tools and services for both studying and teaching remotely. H
 
 | Service                                                      | Description                                                  | Countries                             | Validity                                                     | GDPR Compliant                                               |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [**Alta**](https://secure.wiley.com/COVID19OpenWPAccess) <sup>[[Announcement](https://newsroom.wiley.com/press-release/all-corporate-news/wiley-opens-access-support-educators-researchers-professionals-amid)]</sup> | Complete courseware solution that combines adaptive learning technology with openly available content to deliver a personalized learning experience. | 🌍                                     | Free access to the courseware, for the duration of this spring semester. | ❔                                                            |
 | [ClassDojo](https://www.classdojo.com) <sup>[[Announcement](https://www.classdojo.com/en-gb/remotelearning)]</sup> | ClassDojo connects teachers with students and parents to build classroom communities | 🌍                                     | Always free for teachers                                     | ✔️ <sup>[[Info](https://www.classdojo.com/en-gb/privacycenter/)]</sup> |
 | **[Kahoot!](https://kahoot.com/)** <sup>[[Announcement](https://kahoot.com/blog/2020/02/27/kahoot-free-access-schools-higher-education-coronavirus/)]</sup> | Game-based learning platform                                 | 🌍                                     | Remaining months of the academic year.                       | ✔️ <sup>[[Info](https://kahoot.com/privacy-policy/)]</sup>    |
 | [Kolibri](https://learningequality.org/kolibri/) <sup>[[Announcement](https://blog.learningequality.org/kolibri-covid19-60d6341c0e7c)]</sup> | The offline app for universal education                      | 🌍                                     | Always free                                                  | ✔️ <sup>[[Info](https://blog.learningequality.org/kolibri-v0-11-is-here-154cc8b3cc33)]</sup> |
@@ -70,6 +71,7 @@ There are numerous tools and services for both studying and teaching remotely. H
 | [**Office 365 A5**](https://www.microsoft.com/en-us/microsoft-365/academic/compare-office-365-education-plans?activetab=tab:primaryr1) <sup>[[Announcement](https://www.microsoft.com/en-us/microsoft-365/blog/2020/03/11/helping-teachers-students-switch-remote-learning/)]</sup> | Office 365 A1 features with higher usage limits + Office desktop apps, additional management and security tools, and analytics systems. | USA, Italy, Japan, South Korea        | Free for six months                                          | ✔️ <sup>[[Info](https://docs.microsoft.com/en-us/microsoft-365/compliance/office-365-info-protection-for-gdpr-overview?view=o365-worldwide)]</sup> |
 | [**Top Hat**](https://tophat.com/covid-19-response/) <sup>[[Announcement](https://tophat.com/covid-19-response/)]</sup> | Easy-to-use tools to engage your classroom, adopt and author next generation interactive textbooks, create assignments on the fly and securely administer tests. | United States, Canada, United Kingdom | The product is aimed for colleges and universities, valid until the end of the semester | ❔                                                            |
 | [**Vuolearning**](https://www.etakoulu.fi/) <sup>[[Announcement](https://twitter.com/Vuolearning/status/1238509445543612416)]</sup> | Distance learning solution with courses, discussions, assignments, analytics and integrations to external systems. | Finland                               | Free until June 30th, 2020                                   | ✔️ <sup>[[Info](https://www.vuolearning.com/en/features)]</sup> |
+| [**WileyPLUS**](https://secure.wiley.com/COVID19OpenWPAccess) <sup>[[Announcement](https://newsroom.wiley.com/press-release/all-corporate-news/wiley-opens-access-support-educators-researchers-professionals-amid)]</sup> | Research-based online environment for effective teaching and learning | 🌍                                     | Free access to the courseware, for the duration of this spring semester. | ✔️ <sup>[[Info](https://authorservices.wiley.com/statements/data-protection-policy.html)]</sup> |
 
 ### Languages
 
@@ -77,12 +79,13 @@ There are numerous tools and services for both studying and teaching remotely. H
 | ------------------------------------------------------------ | ------------------------------------------------------------ | --------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | **[Mango Classroom](https://mangolanguages.com/info/covid19-response.cfm)** <sup>[[Announcement](https://mangolanguages.com/info/covid19-response.cfm)]</sup> | Language learning resource that combines quality content, intelligent technology, and an adaptive algorithm that delivers practical phrases from real situations in over 70 supported languages. | USA       | Freely available to all schools facing closures through the end of the 2019-2020 school year | ✔️ <sup>[[Info](https://mangolanguages.com/legal/gdpr.cfm)]</sup> |
 
-### Mathematics
+### STEM
 
-| Service                                                      | Description                                                  | Countries | Validity                          | GDPR Compliant |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | --------- | --------------------------------- | -------------- |
-| **[eMathStudio](https://emathstudio.com/distance-learning)** | Calculate math, get immediate feedback and share work from home. | 🌍         |                                   | ❔              |
-| **[ST Math](https://www.stmath.com/)** <sup>[[Announcement](https://www.stmath.com/home-access)]</sup> | ST Math is an instructional tool including more than 35,000 puzzles with interactive  representations of math topics that align to all state standards, with learning objectives that target key grade-level concepts and skills. | USA       | Free access through June 30, 2020 | ❔              |
+| Service                                                      | Description                                                  | Countries | Validity                                            | GDPR Compliant |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | --------- | --------------------------------------------------- | -------------- |
+| **[eMathStudio](https://emathstudio.com/distance-learning)** | Calculate math, get immediate feedback and share work from home. | 🌍         |                                                     | ❔              |
+| [**zyBooks**](https://zybooks.wufoo.com/forms/z1be1sd50np3hcy/) <sup>[[Announcement](https://www.zybooks.com/covid-19-care-package/)]</sup> | Interactive learning resources for Computer Science, Engineering, and Math | 🌍         | Valid for the remainder of Spring Semester courses. | ❔              |
+| **[ST Math](https://www.stmath.com/)** <sup>[[Announcement](https://www.stmath.com/home-access)]</sup> | ST Math is an instructional tool including more than 35,000 puzzles with interactive  representations of math topics that align to all state standards, with learning objectives that target key grade-level concepts and skills. | USA       | Free access through June 30, 2020                   | ❔              |
 
 ### Articles on Remote Studying/Teaching
 
