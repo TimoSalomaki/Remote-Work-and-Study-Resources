@@ -1,6 +1,6 @@
 ![Repository Logo](https://raw.githubusercontent.com/HankiDesign/COVID-19-Remote-Work-and-Study-Resources/finnish-translation/RepoLogo-fi.png)
 
-<center><em>Looking for the <a href="https://hankidesign.github.io/COVID-19-Remote-Work-and-Study-Resources/">English version</a>?</em></center>
+Looking for the [English version](https://hankidesign.github.io/COVID-19-Remote-Work-and-Study-Resources/)?
 
 Ihmiset ympäri maailmaa ovat joutuneet siirtymään etätyöhön ja -opiskeluun COVID-19-tilanteen vuoksi. Monet heistä ottavat etäyhteyden kanssaopiskelijoihin ja -työntekijöihin ensimmäistä kertaa elämässään, joten tämän projektin tarkoituksena on kerätä ajantasaista informaatiota, työkaluja sekä tarjouksia, joiden avulla hyppy tuntemattomaan ei tunnu niin vaikealta.
 
@@ -125,9 +125,9 @@ Etäopiskeluun ja -opetukseen on olemassa lukuisia työkaluja. Tässä on listat
 
 #### Suomenkieliset artikkelit
 
+- [Ohjeita opettajalle koronatilanteen käsittelyyn oppilaiden ja opiskelijoiden kanssa](https://www.oph.fi/fi/uutiset/2020/ohjeita-opettajalle-koronatilanteen-kasittelyyn-oppilaiden-ja-opiskelijoiden-kanssa)
 - [Opiskelijan digitaidot](https://blogs.helsinki.fi/opiskelijan-digitaidot/)
-- 
-
+- [Pienimuotoisen verkko-opetuksen toteuttaminen ilmaisiaverkkotyövälineitä hyödyntäen](https://jyx.jyu.fi/bitstream/handle/123456789/60734/1/URN%3ANBN%3Afi%3Ajyu-201812205269.pdf)
 
 ## Etätyö
 
