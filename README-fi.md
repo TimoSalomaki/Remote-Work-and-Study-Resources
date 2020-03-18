@@ -122,7 +122,7 @@ Etäopiskeluun ja -opetukseen on olemassa lukuisa työkaluja. Tässä on listatt
 
 ## Etätyö
 
-Remote working tools and services have been around for a while but recently some of the big players have made their premium offerings partly or fully free. If you know more, please [contribute](#contribute)!
+Etätyön työkalut ja palvelut ovat olleet olemassa jo pitkään, mutta viime aikoina monet suuret yritykset ovat tarjonneet maksullisia palveluitaan ilmaiseksi koronaviruksen vuoksi etätöihin joutuville yrityksille ja ihmisille.
 
 ### Etätyöalustat
 
