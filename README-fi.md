@@ -1,6 +1,6 @@
 ![Repository Logo](https://raw.githubusercontent.com/HankiDesign/COVID-19-Remote-Work-and-Study-Resources/finnish-translation/RepoLogo-fi.png)
 
-Looking for the [English version](https://hankidesign.github.io/COVID-19-Remote-Work-and-Study-Resources/)?
+*Looking for the [English version](https://hankidesign.github.io/COVID-19-Remote-Work-and-Study-Resources/)?*
 
 Ihmiset ympäri maailmaa ovat joutuneet siirtymään etätyöhön ja -opiskeluun COVID-19-tilanteen vuoksi. Monet heistä ottavat etäyhteyden kanssaopiskelijoihin ja -työntekijöihin ensimmäistä kertaa elämässään, joten tämän projektin tarkoituksena on kerätä ajantasaista informaatiota, työkaluja sekä tarjouksia, joiden avulla hyppy tuntemattomaan ei tunnu niin vaikealta.
 
