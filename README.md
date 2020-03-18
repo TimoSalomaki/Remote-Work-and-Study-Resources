@@ -1,5 +1,7 @@
 ![Repository Logo](https://raw.githubusercontent.com/HankiDesign/COVID-19-Remote-Work-and-Study-Resources/master/RepoLogo.png)
 
+*Looking for the [Finnish version](README-fi.md)?*
+
 The COVID-19 situation forces people all over the world to work or study remotely for the first time in their lives. This repository aims to aggregate all the important information, free resources and other stuff that helps people make the best of the unfortunate situation and continue with their daily tasks.
 
 > **Note on Tools and Services:** This list deals exclusively with free products/services and premium services that offer free plans for schools, companies and individuals affected by the pandemic. Unfortunately, some companies are trying to benefit from the situation by pretending their pre-existing free trials are actually free handouts, in which case they'll be excluded from the list.
