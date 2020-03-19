@@ -201,7 +201,7 @@ There are certainly many great tools and services that I'm missing from this lis
 ### What is Needed?
 
 - More free tools with proper categories for both distance learning and remote work
-- More hiqh quality articles for students to ease in the transition to distance learning
+- More high quality articles for students to ease in the transition to distance learning
 - Translations into other languages. I will provide the Finnish translation soon but other languages are up for grabs.
 
 ## IANAL (I Am Not A Lawyer)
@@ -210,4 +210,4 @@ Even though there's a column for GDPR compliance in each of the lists, it DOES N
 
 ## License
 
-[CC0 1.0 Universal (CC0 1.0) Public Domain
+[CC0 1.0 Universal (CC0 1.0) Public Domain](https://creativecommons.org/publicdomain/zero/1.0/)
