@@ -2,7 +2,7 @@
 
 *Looking for the [English version](https://hankidesign.github.io/COVID-19-Remote-Work-and-Study-Resources/)?*
 
-Ihmiset ympäri maailmaa ovat joutuneet siirtymään etätyöhön ja -opiskeluun COVID-19-tilanteen vuoksi. Monet heistä ottavat etäyhteyden kanssaopiskelijoihin ja -työntekijöihin ensimmäistä kertaa elämässään, joten tämän projektin tarkoituksena on kerätä ajantasaista informaatiota, työkaluja sekä tarjouksia, joiden avulla hyppy tuntemattomaan ei tunnu niin vaikealta.
+Ihmiset ympäri maailmaa ovat joutuneet siirtymään etätyöhön ja -opiskeluun COVID-19-tilanteen vuoksi. Monet heistä ottavat etäyhteyden kanssaopiskelijoihin ja työkavereihin ensimmäistä kertaa elämässään, joten tämän projektin tarkoituksena on kerätä ajantasaista informaatiota, työkaluja sekä tarjouksia, joiden avulla hyppy tuntemattomaan ei tunnu niin vaikealta.
 
 > **Huomautus työkaluista ja palveluista:** Tämä lista sisältää jo ennestään ilmaisia palveluja, sekä sellaisia jotka ovat koronatilanteen vuoksi avanneet osan tai kaiken maksullisesta palvelustaan ilmaiseksi kouluille, yrityksille ja/tai yksityishenkilöille. Valitettavasti jotkut yritykset yrittävät hyötyä tilanteesta naamioimalla muutenkin ilmaisen kokeilujaksonsa jonkinlaiseksi avuntarjonnaksi. Tällaiset palvelut jätetään kokonaan listan ulkopuolelle.
 
