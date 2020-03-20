@@ -63,6 +63,7 @@ Etäopiskeluun ja -opetukseen on olemassa lukuisia työkaluja. Tässä on listat
 | [COVID-19: Tackling the Novel Coronavirus](https://www.futurelearn.com/courses/covid19-novel-coronavirus) <sup>[[Uutinen](https://about.futurelearn.com/blog/coronavirus-futurelearn-course)]</sup> | Ilmainen onlinekurssi, joka kertoo mikä COVID-19 on ja miten pandemia voi sinuun vaikuttaa. | 🌍    |                                                              | ❔                                                            |
 | [Epic](https://www.getepic.com/) <sup>[[Uutinen](https://www.getepic.com/learn/freeremotestudentaccess/)]</sup> | Lapsille suunnattu digitaalinen kirjasto, joka tarjoaa rajattoman pääsyn 35000:een lastenkirjaan. | 🌍    | Ilmainen pääsy opiskelijoille 30.6.2020 saakka, vaatii kutsun opettajalta | ❔                                                            |
 | [Khan Academy](https://www.khanacademy.org/) <sup>[[Uutinen](https://kahoot.com/blog/2020/02/27/kahoot-free-access-schools-higher-education-coronavirus/)]</sup> | Voittoa tavoittelematon palvelu, jonka missiona on tarjota ilmainen maailmanluokan koulutus kenelle vain, missä tahansa. | 🌍    |                                                              | ✔️ <sup>[[Info](https://www.khanacademy.org/about/privacy-policy)]</sup> |
+| [Scribd](https://scribd.com) <sup>[[Uutinen](https://blog.scribd.com/home/2020/3/17/a-letter-from-the-scribd-ceo-to-our-community)]</sup> | Miljoonia kirjoja, audiokirjoja, aikakauslehtiä ja muuta     | 🌍    | Ilmainen 30 päivän ajan, ei vaadi luottokorttia              | ❔                                                            |
 
 ### Yleinen
 
@@ -227,4 +228,4 @@ GDPR-sarakkeeseen lisäämäni yhteensopivuusmerkinnät EIVÄT ole virallisia oh
 
 ## Lisenssi
 
-[CC0 1.0 Yleismaailmallinen (CC0 1.0) Public Domain](https://creativecommons.org/publicdomain/zero/1.0/deed.fi)
+[CC0 1.0 Yleismaailmallinen (CC0 1.0) Public Domain
