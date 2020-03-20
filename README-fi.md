@@ -63,7 +63,7 @@ Etäopiskeluun ja -opetukseen on olemassa lukuisia työkaluja. Tässä on listat
 | [COVID-19: Tackling the Novel Coronavirus](https://www.futurelearn.com/courses/covid19-novel-coronavirus) <sup>[[Uutinen](https://about.futurelearn.com/blog/coronavirus-futurelearn-course)]</sup> | Ilmainen onlinekurssi, joka kertoo mikä COVID-19 on ja miten pandemia voi sinuun vaikuttaa. | 🌍    |                                                              | ❔                                                            |
 | [Epic](https://www.getepic.com/) <sup>[[Uutinen](https://www.getepic.com/learn/freeremotestudentaccess/)]</sup> | Lapsille suunnattu digitaalinen kirjasto, joka tarjoaa rajattoman pääsyn 35000:een lastenkirjaan. | 🌍    | Ilmainen pääsy opiskelijoille 30.6.2020 saakka, vaatii kutsun opettajalta | ❔                                                            |
 | [Khan Academy](https://www.khanacademy.org/) <sup>[[Uutinen](https://kahoot.com/blog/2020/02/27/kahoot-free-access-schools-higher-education-coronavirus/)]</sup> | Voittoa tavoittelematon palvelu, jonka missiona on tarjota ilmainen maailmanluokan koulutus kenelle vain, missä tahansa. | 🌍    |                                                              | ✔️ <sup>[[Info](https://www.khanacademy.org/about/privacy-policy)]</sup> |
-| [Scribd](https://scribd.com) <sup>[[Uutinen](https://blog.scribd.com/home/2020/3/17/a-letter-from-the-scribd-ceo-to-our-community)]</sup> | Miljoonia kirjoja, audiokirjoja, aikakauslehtiä ja muuta     | 🌍    | Ilmainen 30 päivän ajan, ei vaadi luottokorttia              | ❔                                                            |
+| [**Scribd**](https://scribd.com) <sup>[[Uutinen](https://blog.scribd.com/home/2020/3/17/a-letter-from-the-scribd-ceo-to-our-community)]</sup> | Miljoonia kirjoja, audiokirjoja, aikakauslehtiä ja muuta     | 🌍    | Ilmainen 30 päivän ajan, ei vaadi luottokorttia              | ❔                                                            |
 
 ### Yleinen
 
@@ -136,10 +136,11 @@ Etätyön työkalut ja palvelut ovat olleet olemassa jo pitkään, mutta viime a
 
 ### Etätyöalustat
 
-| Palvelu                                                      | Kuvaus                                                       | Maat | Voimassaolo                   | GDPR                                                         |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- | ----------------------------- | ------------------------------------------------------------ |
-| [Facebook Workplace](https://www.facebook.com/workplace)     | Ryhmiä, videopuheluita, tiedostojen tallennusta, käännöksiä, videostriimausta ja mobiilisovelluksia tukeva etätyöalusta tiimeille. | 🌍    |                               | ✔️ <sup>[[Info](https://www.facebook.com/help/work/440784266362673)]</sup> |
-| **[Office 365 E1](https://www.microsoft.com/en-us/microsoft-365/blog/2020/03/05/our-commitment-to-customers-during-covid-19/)** <sup>[[Uutinen](https://www.microsoft.com/en-us/microsoft-365/blog/2020/03/05/our-commitment-to-customers-during-covid-19/)]</sup> | Tarjoaa verkkopohjaiset Office-sovellukset sekä liiketoimintapalvelut (mukaanlukien Microsoft Teams) tiimien yhteistyöhön. Käyttöönotto vaatii yhteydenottoa Microsoft-partneriin tai myyntivastaavaan. | 🌍    | Ilmainen kuudeksi kuukaudeksi | ✔️ <sup>[[Info](https://docs.microsoft.com/en-us/microsoft-365/compliance/office-365-info-protection-for-gdpr-overview?view=o365-worldwide)]</sup> |
+| Palvelu                                                      | Kuvaus                                                       | Maat | Voimassaolo                                       | GDPR                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- | ------------------------------------------------- | ------------------------------------------------------------ |
+| [**Atlassian- tuotteet**](https://www.atlassian.com/software/free) <sup>[[Uutinen](https://www.atlassian.com/remote)]</sup> | Atlassianin pilvipalvelut: Jira (projektin ja ongelmien seurantajärjestelmä), Confluence (dokumenttipohjainen yhteistyöalusta), Opsgenie (operaationhallinta) | 🌍    | Ilmainen maksimissaan kymmenen henkilön tiimeille | ✔️ <sup>[[Info](https://www.atlassian.com/trust/privacy/gdpr)]</sup> |
+| [Facebook Workplace](https://www.facebook.com/workplace)     | Ryhmiä, videopuheluita, tiedostojen tallennusta, käännöksiä, videostriimausta ja mobiilisovelluksia tukeva etätyöalusta tiimeille. | 🌍    |                                                   | ✔️ <sup>[[Info](https://www.facebook.com/help/work/440784266362673)]</sup> |
+| **[Office 365 E1](https://www.microsoft.com/en-us/microsoft-365/blog/2020/03/05/our-commitment-to-customers-during-covid-19/)** <sup>[[Uutinen](https://www.microsoft.com/en-us/microsoft-365/blog/2020/03/05/our-commitment-to-customers-during-covid-19/)]</sup> | Tarjoaa verkkopohjaiset Office-sovellukset sekä liiketoimintapalvelut (mukaanlukien Microsoft Teams) tiimien yhteistyöhön. Käyttöönotto vaatii yhteydenottoa Microsoft-partneriin tai myyntivastaavaan. | 🌍    | Ilmainen kuudeksi kuukaudeksi                     | ✔️ <sup>[[Info](https://docs.microsoft.com/en-us/microsoft-365/compliance/office-365-info-protection-for-gdpr-overview?view=o365-worldwide)]</sup> |
 
 ### Sekalainen
 
@@ -228,4 +229,4 @@ GDPR-sarakkeeseen lisäämäni yhteensopivuusmerkinnät EIVÄT ole virallisia oh
 
 ## Lisenssi
 
-[CC0 1.0 Yleismaailmallinen (CC0 1.0) Public Domain
+[CC0 1.0 Yleismaailmallinen (CC0 1.0) Public Domain](https://creativecommons.org/publicdomain/zero/1.0/deed.fi)
