@@ -61,7 +61,7 @@ There are numerous tools and services for both studying and teaching remotely. H
 | [COVID-19: Tackling the Novel Coronavirus](https://www.futurelearn.com/courses/covid19-novel-coronavirus) <sup>[[Announcement](https://about.futurelearn.com/blog/coronavirus-futurelearn-course)]</sup> | Free online course. What is COVID-19 and how might the outbreak affect you? Find out more about coronavirus and explore its worldwide implications. | 🌍         |                                                              | ❔                                                            |
 | [Epic](https://www.getepic.com/) <sup>[[Announcement](https://www.getepic.com/learn/freeremotestudentaccess/)]</sup> | Digital library for kids offering unlimited access to 35000 of the best children's books of all time. | 🌍         | Free worldwide Remote Student Access through the end of  the school year (June 30th, 2020), by teacher invitation | ❔                                                            |
 | [Khan Academy](https://www.khanacademy.org/) <sup>[[Announcement](https://kahoot.com/blog/2020/02/27/kahoot-free-access-schools-higher-education-coronavirus/)]</sup> | Nonprofit with the mission to provide a free, world-class education for anyone, anywhere. | 🌍         |                                                              | ✔️ <sup>[[Info](https://www.khanacademy.org/about/privacy-policy)]</sup> |
-| [Scribd](https://scribd.com) <sup>[[Announcement]](https://blog.scribd.com/home/2020/3/17/a-letter-from-the-scribd-ceo-to-our-community)</sup> | Millions of books, audiobooks, magazines, and more.          | 🌍         | Free for 30 days, no credit card or longer commitment required | ❔                                                            |
+| [**Scribd**](https://scribd.com) <sup>[[Announcement]](https://blog.scribd.com/home/2020/3/17/a-letter-from-the-scribd-ceo-to-our-community)</sup> | Millions of books, audiobooks, magazines, and more.          | 🌍         | Free for 30 days, no credit card or longer commitment required | ❔                                                            |
 
 ### General
 
@@ -129,10 +129,11 @@ Remote working tools and services have been around for a while but recently some
 
 ### All-In-One Services
 
-| Service                                                      | Description                                                  | Countries | Validity            | GDPR Compliant                                               |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | --------- | ------------------- | ------------------------------------------------------------ |
-| [Facebook Workplace](https://www.facebook.com/workplace)     | Team collaboration service with, groups, video calls, file storage, translation, video streaming, mobile apps etc. | 🌍         |                     | ✔️ <sup>[[Info](https://www.facebook.com/help/work/440784266362673)]</sup> |
-| **[Office 365 E1](https://www.microsoft.com/en-us/microsoft-365/blog/2020/03/05/our-commitment-to-customers-during-covid-19/)** <sup>[[Announcement](https://www.microsoft.com/en-us/microsoft-365/blog/2020/03/05/our-commitment-to-customers-during-covid-19/)]</sup> | Web-based Office apps and business services, including Microsoft Teams for team collaboration. Contact Microsoft partner or sales representative to apply. | 🌍         | Free for six months | ✔️ <sup>[[Info](https://docs.microsoft.com/en-us/microsoft-365/compliance/office-365-info-protection-for-gdpr-overview?view=o365-worldwide)]</sup> |
+| Service                                                      | Description                                                  | Countries | Validity                       | GDPR Compliant                                               |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | --------- | ------------------------------ | ------------------------------------------------------------ |
+| [**Atlassian products**](https://www.atlassian.com/software/free) <sup>[[Announcement](https://www.atlassian.com/remote)]</sup> | Cloud hosted versions of Jira (project and issue tracking), Confluence (document collaboration), Bitbucket (version control), Opsgenie (incident management) etc. | 🌍         | Free for teams up to 10 people | ✔️ <sup>[[Info](https://www.atlassian.com/trust/privacy/gdpr)]</sup> |
+| [Facebook Workplace](https://www.facebook.com/workplace)     | Team collaboration service with, groups, video calls, file storage, translation, video streaming, mobile apps etc. | 🌍         |                                | ✔️ <sup>[[Info](https://www.facebook.com/help/work/440784266362673)]</sup> |
+| **[Office 365 E1](https://www.microsoft.com/en-us/microsoft-365/blog/2020/03/05/our-commitment-to-customers-during-covid-19/)** <sup>[[Announcement](https://www.microsoft.com/en-us/microsoft-365/blog/2020/03/05/our-commitment-to-customers-during-covid-19/)]</sup> | Web-based Office apps and business services, including Microsoft Teams for team collaboration. Contact Microsoft partner or sales representative to apply. | 🌍         | Free for six months            | ✔️ <sup>[[Info](https://docs.microsoft.com/en-us/microsoft-365/compliance/office-365-info-protection-for-gdpr-overview?view=o365-worldwide)]</sup> |
 
 ### Miscellaneous
 
@@ -211,4 +212,4 @@ Even though there's a column for GDPR compliance in each of the lists, it DOES N
 
 ## License
 
-[CC0 1.0 Universal (CC0 1.0) Public Domain](https://creativecommons.org/publicdomain/zero/1.0/)
+[CC0 1.0 Universal (CC0 1.0) Public Domain
