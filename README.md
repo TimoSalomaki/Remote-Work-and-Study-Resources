@@ -112,6 +112,7 @@ There are numerous tools and services for both studying and teaching remotely. H
 - [Crowdsourcing: Teaching Online with Care](http://bit.ly/onlinewithcare)
 - 📕 [Digital Teaching In Higher Education
   Designing E-learning for International Students of Technology, Innovation and the Environment](http://www.tomw.net.au/digital_teaching/index.shtml)
+- [How to use Discord for your classroom](https://blog.discordapp.com/how-to-use-discord-for-your-classroom-8587bf78e6c4)
 - [In the Eye of the Storm: Students’ Perceptions of Helpful Faculty Actions Following a Collective Tragedy](http://podnetwork.org/content/uploads/In_the_Eye.pdf)
 - [Issues in Accessing Distance Education Technologies for Individuals with Disabilities](http://ncdae.org/resources/articles/technology.php)
 - [Going Online in a Hurry: What to Do and Where to Start](https://www.chronicle.com/article/Going-Online-in-a-Hurry-What/248207)
