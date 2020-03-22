@@ -25,6 +25,7 @@ The COVID-19 situation forces people all over the world to work or study remotel
   - [📰 Articles](#articles)
     - [General](#general)
     - [Health & Family](#health--family)
+- [👨‍🔬 Research](#research)
 - [📃 Other Lists](#other-lists)
 - [🙋‍♂️ Contributing](#contributing)
 - [License](#license)
@@ -181,6 +182,12 @@ Remote working tools and services have been around for a while but recently some
 - [The Psychological Impact of Teleworking: Stress, Emotions and Health](https://www.researchgate.net/publication/229525709_The_Psychological_Impact_of_Teleworking_Stress_Emotions_and_Health)
 - [The Remote Working Parent’s Survival Guide](https://doist.com/blog/remote-working-parents-survival-guide/)
 - [Work from home: 64 expert tips for staying healthy, happy, and productive](https://www.zdnet.com/article/work-from-home-64-expert-tips-for-staying-healthy-happy-and-productive/)
+
+## Research
+
+| Service                                                      | Description                         | Countries | Validity                                                     | GDPR Compliant |
+| ------------------------------------------------------------ | ----------------------------------- | --------- | ------------------------------------------------------------ | -------------- |
+| **[NVIDIA Parabricks](https://www.developer.nvidia.com/nvidia-parabricks)** <sup>[[Announcement](https://blogs.nvidia.com/blog/2020/03/19/coronavirus-research-parabricks/)]</sup> | Genome-sequencing software for GPUs | 🌍         | Free 90-day license to any researcher in the worldwide effort to fight the novel coronavirus. | ❔              |
 
 ## Other Lists
 
