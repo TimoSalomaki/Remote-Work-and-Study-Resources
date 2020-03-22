@@ -4,6 +4,8 @@
 
 Ihmiset ympäri maailmaa ovat joutuneet siirtymään etätyöhön ja -opiskeluun COVID-19-tilanteen vuoksi. Monet heistä ottavat etäyhteyden kanssaopiskelijoihin ja työkavereihin ensimmäistä kertaa elämässään, joten tämän projektin tarkoituksena on kerätä ajantasaista informaatiota, työkaluja sekä tarjouksia, joiden avulla hyppy tuntemattomaan ei tunnu niin vaikealta.
 
+**Ennen kuin otat listalla olevia työkaluja käyttöön, suosittelen lukemaan EFF:n (Electronic Frontier Foundation) artikkelin "[What You Should Know About Online Tools During the COVID-19 Crisis](https://www.eff.org/deeplinks/2020/03/what-you-should-know-about-online-tools-during-covid-19-crisis)".**
+
 > **Huomautus työkaluista ja palveluista:** Tämä lista sisältää jo ennestään ilmaisia palveluja, sekä sellaisia jotka ovat koronatilanteen vuoksi avanneet osan tai kaiken maksullisesta palvelustaan ilmaiseksi kouluille, yrityksille ja/tai yksityishenkilöille. Valitettavasti jotkut yritykset yrittävät hyötyä tilanteesta naamioimalla muutenkin ilmaisen kokeilujaksonsa jonkinlaiseksi avuntarjonnaksi. Tällaiset palvelut jätetään kokonaan listan ulkopuolelle.
 
 ## Aiheet
