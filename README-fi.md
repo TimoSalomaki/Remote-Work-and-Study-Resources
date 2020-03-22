@@ -27,6 +27,7 @@ Ihmiset ympäri maailmaa ovat joutuneet siirtymään etätyöhön ja -opiskeluun
     - [Yleistä](#yleistä)
     - [Perhe ja hyvinvointi](#perhe-ja-hyvinvointi)
     - [Suomeksi](#suomeksi)
+- [👨‍🔬 Tutkimus](#tutkimus)
 - [📃 Muut listat](#muut-listat)
 - [🙋‍♂️ Osallistuminen](#osallistuminen)
 - [Lisenssi](#lisenssi)
@@ -197,6 +198,12 @@ Etätyön työkalut ja palvelut ovat olleet olemassa jo pitkään, mutta viime a
 - [Etätöissä ja lapset kotona? 7 vinkkiä, joilla työskentely onnistuu myös kotikonttorilla](https://duunitori.fi/tyoelama/etatyo-lapset-kotona)
 - [Vinkit tehokkaaseen etätyöskentelyyn](https://www.annikaollila.fi/2020/03/vinkit-tehokkaaseen-etatyoskentelyyn/)
 
+## Tutkimus
+
+| Palvelu                                                      | Kuvaus                                                       | Maat | Voimassaolo                                                  | GDPR |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- | ------------------------------------------------------------ | ---- |
+| **[NVIDIA Parabricks](https://www.developer.nvidia.com/nvidia-parabricks)** <sup>[[Uutinen](https://blogs.nvidia.com/blog/2020/03/19/coronavirus-research-parabricks/)]</sup> | GPU-työkalu perimän emäsjärjestyksen määrittämiseen (genomisekvensointi) | 🌍    | Ilmainen 90 päivän lisenssi tutkijoille, jotka työskentelevät koronaviruksen parissa. | ❔    |
+
 ## Muut listat
 
 | Lista                                                        | Kuvaus                                                       |
@@ -234,4 +241,3 @@ GDPR-sarakkeeseen lisäämäni yhteensopivuusmerkinnät EIVÄT ole virallisia oh
 ## Lisenssi
 
 [CC0 1.0 Yleismaailmallinen (CC0 1.0) Public Domain](https://creativecommons.org/publicdomain/zero/1.0/deed.fi)
-
