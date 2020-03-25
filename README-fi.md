@@ -20,6 +20,7 @@ Ihmiset ympäri maailmaa ovat joutuneet siirtymään etätyöhön ja -opiskeluun
      - [Opiskelijoille](#opiskelijoille)
      - [Opettajille](#opettajille)
      - [Työkalut](#työkalut)
+     - [Vanhemmille](#vanhemmille)
      - [Suomenkieliset artikkelit](#suomenkieliset-artikkelit)
 - [Etätyö](#etätyö)
   - [🛠️ Etätyöalustat](#etätyöalustat)
@@ -64,6 +65,7 @@ Etäopiskeluun ja -opetukseen on olemassa lukuisia työkaluja. Tässä on listat
 
 | Palvelu                                                      | Kuvaus                                                       | Maat | Voimassaolo                                                  | GDPR                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [**Britannica LaunchPacks**](https://britannicalearn.com/covid-19-free-resources/)  <sup>[[Uutinen](https://britannicalearn.com/covid-19-free-resources/)]</sup> | Ilmaisia virtuaalisen opiskelun resursseja kouluille.        | 🌍    |                                                              | ✔️ <sup>[[Info](https://corporate.britannica.com/privacy.html)]</sup> |
 | [**Cambridge Core Academic Textbooks**](https://www.cambridge.org/core/what-we-publish/textbooks) <sup>[[Uutinen](https://www.cambridge.org/about-us/covid-19/)]</sup> | Kaikki 700 kirjaa avoimesti luettavina HTML-formaatissa.     | 🌍    | Toukokuun loppuun asti                                       | ✔️ <sup>[[Info](https://www.cambridge.org/about-us/legal-notices/privacy-notice)]</sup> |
 | **[Coursera for Campus](https://www.coursera.org/coronavirus#form)** <sup>[[Uutinen](https://www.coursera.org/coronavirus)]</sup> | Pääsy 3800 kurssiin 400:n eri aihealueen parissa.            | 🌍    | Ilmainen pääsy opiskelijoille 30.9.2020 saakka               | ✔️ <sup>[[Info](https://learner.coursera.help/hc/en-us/articles/360001842031-General-Data-Protection-Regulation-GDPR-)]</sup> |
 | [COVID-19: Tackling the Novel Coronavirus](https://www.futurelearn.com/courses/covid19-novel-coronavirus) <sup>[[Uutinen](https://about.futurelearn.com/blog/coronavirus-futurelearn-course)]</sup> | Ilmainen onlinekurssi, joka kertoo mikä COVID-19 on ja miten pandemia voi sinuun vaikuttaa. | 🌍    |                                                              | ❔                                                            |
@@ -124,6 +126,10 @@ Etäopiskeluun ja -opetukseen on olemassa lukuisia työkaluja. Tässä on listat
 - [Supporting Students During COVID-19](https://hope4college.com/supporting-students-during-covid19/)
 - [Teaching Effectively During Times of Disruption](https://docs.google.com/document/d/1ccsudB2vwZ_GJYoKlFzGbtnmftGcXwCIwxzf-jkkoCU/preview)
 - [Ten Tips for Quickly Converting Courses for Online Delivery ](https://blog.highereducationwhisperer.com/2020/02/some-tips-for-quickly-converting.html)
+
+#### Vanhemmille
+
+- [COVID-19 Advice from a Family Therapist](https://parents.britannica.com/covid-19-advice-from-a-family-therapist/)
 
 #### Työkalut
 
@@ -243,3 +249,4 @@ GDPR-sarakkeeseen lisäämäni yhteensopivuusmerkinnät EIVÄT ole virallisia oh
 ## Lisenssi
 
 [CC0 1.0 Yleismaailmallinen (CC0 1.0) Public Domain](https://creativecommons.org/publicdomain/zero/1.0/deed.fi)
+
