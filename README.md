@@ -17,6 +17,7 @@ The COVID-19 situation forces people all over the world to work or study remotel
   -  [💬 Languages](#languages)
   -  [🧮 STEM](#stem)
   -  [📰 Articles on Remote Studying/Teaching](#articles-on-remote-studyingteaching)
+     - [For Parents](#for-parents)
      - [For Students](#for-students)
      - [For Teachers](#for-teachers)
      - [Tools & Resources](#tools--resources)
@@ -62,6 +63,7 @@ There are numerous tools and services for both studying and teaching remotely. H
 
 | Service                                                      | Description                                                  | Countries | Validity                                                     | GDPR Compliant                                               |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | --------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [**Britannica LaunchPacks**](https://britannicalearn.com/covid-19-free-resources/)  <sup>[[Announcement](https://britannicalearn.com/covid-19-free-resources/)]</sup> | Free, Emergency Virtual-Learning Resources for Every School. | 🌍         | For schools                                                  | ✔️ <sup>[[Info](https://corporate.britannica.com/privacy.html)]</sup> |
 | [**Cambridge Core Academic Textbooks**](https://www.cambridge.org/core/what-we-publish/textbooks) <sup>[[Announcement](https://www.cambridge.org/about-us/covid-19/)]</sup> | All 700 textbooks, published and currently available in HTML format on  Cambridge Core, are now available until the end of May, regardless of whether they were previously purchased. | 🌍         | Until the end of May                                         | ✔️ <sup>[[Info](https://www.cambridge.org/about-us/legal-notices/privacy-notice)]</sup> |
 | **[Coursera for Campus](https://www.coursera.org/coronavirus#form)** <sup>[[Announcement](https://www.coursera.org/coronavirus)]</sup> | Access 3,800 courses and 400 specializations.                | 🌍         | Learners will have access to their courses through September 30, 2020 | ✔️ <sup>[[Info](https://learner.coursera.help/hc/en-us/articles/360001842031-General-Data-Protection-Regulation-GDPR-)]</sup> |
 | [COVID-19: Tackling the Novel Coronavirus](https://www.futurelearn.com/courses/covid19-novel-coronavirus) <sup>[[Announcement](https://about.futurelearn.com/blog/coronavirus-futurelearn-course)]</sup> | Free online course. What is COVID-19 and how might the outbreak affect you? Find out more about coronavirus and explore its worldwide implications. | 🌍         |                                                              | ❔                                                            |
@@ -98,6 +100,10 @@ There are numerous tools and services for both studying and teaching remotely. H
 | **[ST Math](https://www.stmath.com/)** <sup>[[Announcement](https://www.stmath.com/home-access)]</sup> | ST Math is an instructional tool including more than 35,000 puzzles with interactive  representations of math topics that align to all state standards, with learning objectives that target key grade-level concepts and skills. | USA       | Free access through June 30, 2020                   | ❔              |
 
 ### Articles on Remote Studying/Teaching
+
+#### For Parents
+
+- [COVID-19 Advice from a Family Therapist](https://parents.britannica.com/covid-19-advice-from-a-family-therapist/)
 
 #### For Students
 
