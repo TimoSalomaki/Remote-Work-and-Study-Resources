@@ -202,7 +202,7 @@ Remote working tools and services have been around for a while but recently some
 
 There are certainly many great tools and services that I'm missing from this list. If you know of any, please [submit a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) and I'll review it. There are no specific styling instructions yet but try to adhere to the overall look and feel already present in the document. Keep the following things in mind when contributing:
 
- > Note for non-technical users: If you're not familiar with GitHub, or have no clue what a "pull request" is and you would like to contribute to this page, feel free to send me a message on [LinkedIn](https://www.linkedin.com/in/hankidesign/). I'll add your suggestions if they're suitable for this page.
+ > Note for non-technical users: If you're not familiar with GitHub, or have no clue what a "pull request" is and you would like to contribute to this page, feel free to send me a message. I'll add your suggestions if they're suitable for this page.
 
 - If there's a separate announcement on an official blog etc. with more information about the offering, please link that in the Source column of the table.
 - Don't add services that pretend that their pre-existing 30-day trial is suddenly a free COVID-19 exclusive offer.
