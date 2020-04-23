@@ -235,7 +235,7 @@ Listalta puuttuu varmasti paljon hienoja työkaluja ja palveluita. Jos olet tiet
   - Luo uusi tiedosto ja nimeä se README-{kaksikirjaiminen kielikoodi}.md. Esimerkiksi: *README-fi.md*
   - Kielikoodin tulee noudattaa ISO 639-1 -standardin mukaista nimeämistä.
 
-> Huomautus ei-teknisille käyttäjille: Jos et tiedä mikä GitHub tai versionhallinta on, voit lähettää minulle ehdotuksesi LinkedInissä. Näin voin itse lisätä muutokset puolestasi.
+> Huomautus ei-teknisille käyttäjille: Jos et tiedä mikä GitHub tai versionhallinta on, voit lähettää minulle ehdotuksesi yksityisviestillä. Näin voin itse lisätä muutokset puolestasi.
 
 ### Mitä vielä tarvitaan?
 
