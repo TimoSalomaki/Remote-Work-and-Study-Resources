@@ -107,6 +107,7 @@ There are numerous tools and services for both studying and teaching remotely. H
 
 - [Accessible Teaching in the Time of COVID-19](https://www.mapping-access.com/blog-1/2020/3/10/accessible-teaching-in-the-time-of-covid-19)
 - [Advice to those about to teach online because of the corona-virus](https://www.tonybates.ca/2020/03/09/advice-to-those-about-to-teach-online-because-of-the-corona-virus/)
+- [Choosing a Presentation Pointer When Color Is Hard to Distinguish](https://light-tracer.com/presentation-pointer-color-hard-to-distinguish/)
 - [COVID-19 and Students with Disabilities](https://www.ncsecs.org/news/covid-19-and-students-with-disabilities/)
 - [Creating an Online Community, Class or Conference - Quick Tech Guide](https://docs.google.com/document/d/1ux3lTnUTpzZRuvxE3rAsSQ4Ihub96S8_OYECNh8wv-A/mobilebasic#cmnt1)
 - [Crowdsourcing: Teaching Online with Care](http://bit.ly/onlinewithcare)
